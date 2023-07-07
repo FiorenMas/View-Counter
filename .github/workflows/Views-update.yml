@@ -1,0 +1,17 @@
+name: View Update Action
+on:
+  schedule:
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update Count and Uniques
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the resources
+        uses: actions/checkout@v3
+      - name: Call the github-visitors-counter-action
+        uses: taurusni/github-visitors-counter-action@v1
+        with:
+          repo-token: ${{ secrets.PUBLIC_ACCESS_TOKEN  }}
