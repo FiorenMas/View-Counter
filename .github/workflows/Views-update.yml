@@ -16,3 +16,5 @@ jobs:
         uses: taurusni/github-visitors-counter-action@v1
         with:
           repo-token: ${{ secrets.PUBLIC_ACCESS_TOKEN  }}
+          excluded-list: |
+            onedrive-vercel-index
