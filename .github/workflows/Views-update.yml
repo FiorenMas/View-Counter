@@ -8,6 +8,7 @@ jobs:
   update:
     name: Update Count and Uniques
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Get the resources
         uses: actions/checkout@v3
