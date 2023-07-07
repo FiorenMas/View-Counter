@@ -28,29 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/7/2023, 3:56:15 AM
+			7/7/2023, 4:00:41 AM
 		</td>
 		<td>
-			443
+			453
 		</td>
 		<td>
-			824
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/onedrive-vercel-index">
-				onedrive-vercel-index
-			</a>
-		</td>
-		<td>
-			7/7/2023, 3:56:14 AM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			19
+			838
 		</td>
 	</tr>
 </table>
