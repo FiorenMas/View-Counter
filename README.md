@@ -28,13 +28,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/18/2023, 6:08:39 AM
+			8/18/2023, 12:11:39 PM
 		</td>
 		<td>
-			3225
+			3253
 		</td>
 		<td>
-			6086
+			6163
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Cloudflare-Gateway-Update-DDNS-For-DNS-Locations">
+				Cloudflare-Gateway-Update-DDNS-For-DNS-Locations
+			</a>
+		</td>
+		<td>
+			8/18/2023, 12:11:39 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
