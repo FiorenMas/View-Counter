@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/29/2023, 6:09:08 AM
+			9/29/2023, 12:12:27 PM
 		</td>
 		<td>
-			5841
+			5847
 		</td>
 		<td>
-			10939
+			10954
 		</td>
 	</tr>
 	<tr>
@@ -67,6 +67,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Be_VietNam_Font">
+				Be_VietNam_Font
+			</a>
+		</td>
+		<td>
+			9/29/2023, 12:12:26 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
