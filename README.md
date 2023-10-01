@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/1/2023, 12:11:18 PM
+			10/1/2023, 6:07:39 PM
 		</td>
 		<td>
-			5943
+			5953
 		</td>
 		<td>
-			11130
+			11152
 		</td>
 	</tr>
 	<tr>
@@ -55,6 +55,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Be_VietNam_Font">
+				Be_VietNam_Font
+			</a>
+		</td>
+		<td>
+			10/1/2023, 6:07:39 PM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/warp-tools">
 				warp-tools
 			</a>
@@ -67,22 +83,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Be_VietNam_Font">
-				Be_VietNam_Font
-			</a>
-		</td>
-		<td>
-			9/29/2023, 12:12:26 PM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
 		</td>
 	</tr>
 </table>
