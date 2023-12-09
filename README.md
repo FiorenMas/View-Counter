@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/9/2023, 9:00:28 AM
+			12/9/2023, 12:11:44 PM
 		</td>
 		<td>
-			9271
+			9276
 		</td>
 		<td>
-			17875
+			17885
 		</td>
 	</tr>
 	<tr>
@@ -67,6 +67,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Shortlink">
+				Shortlink
+			</a>
+		</td>
+		<td>
+			12/9/2023, 12:11:44 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			17
 		</td>
 	</tr>
 </table>
