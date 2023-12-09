@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/9/2023, 12:11:44 PM
+			12/9/2023, 6:08:10 PM
 		</td>
 		<td>
-			9276
+			9294
 		</td>
 		<td>
-			17885
+			17914
 		</td>
 	</tr>
 	<tr>
@@ -55,6 +55,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Shortlink">
+				Shortlink
+			</a>
+		</td>
+		<td>
+			12/9/2023, 6:08:10 PM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			21
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/warp-tools">
 				warp-tools
 			</a>
@@ -67,22 +83,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Shortlink">
-				Shortlink
-			</a>
-		</td>
-		<td>
-			12/9/2023, 12:11:44 PM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			17
 		</td>
 	</tr>
 </table>
