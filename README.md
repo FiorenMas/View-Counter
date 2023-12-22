@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/22/2023, 12:33:59 AM
+			12/22/2023, 6:09:47 AM
 		</td>
 		<td>
-			9885
+			9894
 		</td>
 		<td>
-			19122
+			19147
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/22/2023, 12:33:59 AM
+			12/22/2023, 6:09:48 AM
 		</td>
 		<td>
-			22
+			23
 		</td>
 		<td>
-			55
+			56
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/aria2">
+				aria2
+			</a>
+		</td>
+		<td>
+			12/22/2023, 6:09:47 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			7
 		</td>
 	</tr>
 </table>
