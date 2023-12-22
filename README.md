@@ -28,13 +28,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/22/2023, 6:09:47 AM
+			12/22/2023, 12:12:28 PM
 		</td>
 		<td>
-			9894
+			9903
 		</td>
 		<td>
-			19147
+			19167
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Shortlink">
+				Shortlink
+			</a>
+		</td>
+		<td>
+			12/22/2023, 12:12:28 PM
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			57
 		</td>
 	</tr>
 	<tr>
@@ -51,22 +67,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			125
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Shortlink">
-				Shortlink
-			</a>
-		</td>
-		<td>
-			12/22/2023, 6:09:48 AM
-		</td>
-		<td>
-			23
-		</td>
-		<td>
-			56
 		</td>
 	</tr>
 	<tr>
