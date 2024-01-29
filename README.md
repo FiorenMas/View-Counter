@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/29/2024, 12:32:56 AM
+			1/29/2024, 6:09:29 AM
 		</td>
 		<td>
-			12018
+			12034
 		</td>
 		<td>
-			23272
+			23299
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/28/2024, 6:07:22 PM
+			1/29/2024, 6:09:29 AM
 		</td>
 		<td>
-			79
+			80
 		</td>
 		<td>
-			153
+			154
 		</td>
 	</tr>
 	<tr>
@@ -71,6 +71,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Userscripts">
+				Userscripts
+			</a>
+		</td>
+		<td>
+			1/29/2024, 6:09:29 AM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			31
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aria2">
 				aria2
 			</a>
@@ -83,22 +99,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Userscripts">
-				Userscripts
-			</a>
-		</td>
-		<td>
-			1/28/2024, 6:07:23 PM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			18
 		</td>
 	</tr>
 </table>
