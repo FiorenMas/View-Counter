@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/20/2024, 12:32:06 AM
+			2/20/2024, 6:09:28 AM
 		</td>
 		<td>
-			13374
+			13390
 		</td>
 		<td>
-			26078
+			26111
 		</td>
 	</tr>
 	<tr>
@@ -55,6 +55,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Userscripts">
+				Userscripts
+			</a>
+		</td>
+		<td>
+			2/20/2024, 6:09:29 AM
+		</td>
+		<td>
+			31
+		</td>
+		<td>
+			218
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Cloudflare-Gateway-Update-DDNS-For-DNS-Locations">
 				Cloudflare-Gateway-Update-DDNS-For-DNS-Locations
 			</a>
@@ -67,22 +83,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			148
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Userscripts">
-				Userscripts
-			</a>
-		</td>
-		<td>
-			2/18/2024, 6:07:49 PM
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			213
 		</td>
 	</tr>
 	<tr>
