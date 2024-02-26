@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/26/2024, 6:09:47 AM
+			2/26/2024, 12:12:21 PM
 		</td>
 		<td>
-			13812
+			13826
 		</td>
 		<td>
-			27040
+			27064
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/25/2024, 12:11:02 PM
+			2/26/2024, 12:12:22 PM
 		</td>
 		<td>
-			129
+			131
 		</td>
 		<td>
-			226
+			260
 		</td>
 	</tr>
 	<tr>
@@ -115,6 +115,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/m3u8">
+				m3u8
+			</a>
+		</td>
+		<td>
+			2/26/2024, 12:12:21 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			25
 		</td>
 	</tr>
 </table>
