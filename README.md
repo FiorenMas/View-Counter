@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/1/2024, 6:09:23 PM
+			3/2/2024, 12:31:42 AM
 		</td>
 		<td>
-			14236
+			14256
 		</td>
 		<td>
-			28425
+			28492
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/26/2024, 12:34:05 AM
+			3/2/2024, 12:31:43 AM
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			3
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
+				github-visitors-counter-action
+			</a>
+		</td>
+		<td>
+			3/2/2024, 12:31:41 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			22
 		</td>
 	</tr>
 </table>
