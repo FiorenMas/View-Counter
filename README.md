@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/19/2024, 6:08:35 PM
+			4/20/2024, 12:33:48 AM
 		</td>
 		<td>
-			25414
+			25432
 		</td>
 		<td>
-			58158
+			58195
 		</td>
 	</tr>
 	<tr>
@@ -147,6 +147,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/ssh">
+				ssh
+			</a>
+		</td>
+		<td>
+			4/20/2024, 12:33:48 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			9
 		</td>
 	</tr>
 </table>
