@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/20/2024, 6:09:47 PM
+			4/21/2024, 12:36:45 AM
 		</td>
 		<td>
-			25531
+			25555
 		</td>
 		<td>
-			58386
+			58439
 		</td>
 	</tr>
 	<tr>
@@ -147,6 +147,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Dropped-Patches">
+				Dropped-Patches
+			</a>
+		</td>
+		<td>
+			4/21/2024, 12:36:44 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			4
 		</td>
 	</tr>
 	<tr>
