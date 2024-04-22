@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/22/2024, 12:13:50 PM
+			4/22/2024, 6:08:28 PM
 		</td>
 		<td>
-			25778
+			25819
 		</td>
 		<td>
-			58916
+			59018
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/21/2024, 6:09:48 PM
+			4/22/2024, 6:08:28 PM
 		</td>
 		<td>
-			188
+			189
 		</td>
 		<td>
-			479
+			480
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Dropped-Patches">
+				Dropped-Patches
+			</a>
+		</td>
+		<td>
+			4/22/2024, 6:08:27 PM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/uYouEnhanced">
 				uYouEnhanced
 			</a>
@@ -147,22 +163,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			10
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Dropped-Patches">
-				Dropped-Patches
-			</a>
-		</td>
-		<td>
-			4/21/2024, 12:36:44 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			4
 		</td>
 	</tr>
 	<tr>
