@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/23/2024, 12:14:00 PM
+			4/23/2024, 6:09:09 PM
 		</td>
 		<td>
-			25888
+			25914
 		</td>
 		<td>
-			59180
+			59243
 		</td>
 	</tr>
 	<tr>
@@ -119,6 +119,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Dropped-Patches">
+				Dropped-Patches
+			</a>
+		</td>
+		<td>
+			4/23/2024, 6:09:08 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			6
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -135,34 +151,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/Dropped-Patches">
-				Dropped-Patches
-			</a>
-		</td>
-		<td>
-			4/22/2024, 6:08:27 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/ssh">
 				ssh
 			</a>
 		</td>
 		<td>
-			4/23/2024, 12:14:00 PM
+			4/23/2024, 6:09:09 PM
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			21
+			22
 		</td>
 	</tr>
 	<tr>
