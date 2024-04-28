@@ -28,13 +28,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/27/2024, 6:08:25 PM
+			4/28/2024, 12:37:25 AM
 		</td>
 		<td>
-			26385
+			26408
 		</td>
 		<td>
-			60346
+			60395
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Userscripts">
+				Userscripts
+			</a>
+		</td>
+		<td>
+			4/28/2024, 12:37:26 AM
+		</td>
+		<td>
+			191
+		</td>
+		<td>
+			1124
 		</td>
 	</tr>
 	<tr>
@@ -51,22 +67,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			481
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Userscripts">
-				Userscripts
-			</a>
-		</td>
-		<td>
-			4/27/2024, 12:11:06 PM
-		</td>
-		<td>
-			190
-		</td>
-		<td>
-			1119
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/23/2024, 6:09:08 PM
+			4/28/2024, 12:37:25 AM
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			6
+			8
 		</td>
 	</tr>
 	<tr>
