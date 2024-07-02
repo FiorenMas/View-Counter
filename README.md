@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/2/2024, 6:12:28 AM
+			7/2/2024, 12:14:57 PM
 		</td>
 		<td>
-			35663
+			35677
 		</td>
 		<td>
-			83142
+			83173
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/2/2024, 6:12:29 AM
+			7/2/2024, 12:14:57 PM
 		</td>
 		<td>
-			387
+			395
 		</td>
 		<td>
-			1804
+			1826
 		</td>
 	</tr>
 	<tr>
@@ -195,6 +195,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
+				msc.com-python-crawler
+			</a>
+		</td>
+		<td>
+			7/2/2024, 12:14:56 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			3
 		</td>
 	</tr>
 </table>
