@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/9/2024, 6:10:54 PM
+			8/10/2024, 12:38:53 AM
 		</td>
 		<td>
-			39443
+			39463
 		</td>
 		<td>
-			91728
+			91782
 		</td>
 	</tr>
 	<tr>
@@ -211,6 +211,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/revanced-patches">
+				revanced-patches
+			</a>
+		</td>
+		<td>
+			8/10/2024, 12:38:53 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
