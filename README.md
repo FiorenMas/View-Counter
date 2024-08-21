@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/21/2024, 12:38:42 AM
+			8/21/2024, 6:11:40 AM
 		</td>
 		<td>
-			40913
+			40941
 		</td>
 		<td>
-			94944
+			95020
 		</td>
 	</tr>
 	<tr>
