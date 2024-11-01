@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/1/2024, 6:13:59 AM
+			11/1/2024, 12:17:01 PM
 		</td>
 		<td>
-			53190
+			53288
 		</td>
 		<td>
-			119593
+			119779
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/31/2024, 12:44:58 AM
+			11/1/2024, 12:17:02 PM
 		</td>
 		<td>
-			580
+			581
 		</td>
 		<td>
-			2437
+			2454
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/30/2024, 12:17:30 PM
+			11/1/2024, 12:17:02 PM
 		</td>
 		<td>
-			297
+			298
 		</td>
 		<td>
-			699
+			701
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/revanced-patches">
+				revanced-patches
+			</a>
+		</td>
+		<td>
+			11/1/2024, 12:17:02 PM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -147,22 +163,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			30
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/revanced-patches">
-				revanced-patches
-			</a>
-		</td>
-		<td>
-			10/21/2024, 6:14:05 AM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			10
 		</td>
 	</tr>
 	<tr>
