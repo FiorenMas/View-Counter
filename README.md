@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/27/2024, 6:14:28 AM
+			11/27/2024, 12:18:53 PM
 		</td>
 		<td>
-			59545
+			59680
 		</td>
 		<td>
-			131538
+			131789
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/26/2024, 6:13:26 PM
+			11/27/2024, 12:18:54 PM
 		</td>
 		<td>
-			613
+			614
 		</td>
 		<td>
-			2520
+			2522
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/23/2024, 6:11:22 PM
+			11/27/2024, 12:18:54 PM
 		</td>
 		<td>
-			316
+			317
 		</td>
 		<td>
-			727
+			728
 		</td>
 	</tr>
 	<tr>
@@ -140,13 +140,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/9/2024, 6:11:32 AM
+			11/27/2024, 12:18:53 PM
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			14
+			15
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			11/27/2024, 12:18:53 PM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -227,6 +243,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			11/27/2024, 12:18:53 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
