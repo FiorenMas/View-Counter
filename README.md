@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/8/2024, 6:13:05 AM
+			12/8/2024, 12:17:02 PM
 		</td>
 		<td>
-			62516
+			62584
 		</td>
 		<td>
-			136831
+			136943
 		</td>
 	</tr>
 	<tr>
@@ -275,6 +275,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/buzzalive">
+				buzzalive
+			</a>
+		</td>
+		<td>
+			12/8/2024, 12:17:01 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
