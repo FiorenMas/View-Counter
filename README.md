@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/19/2024, 6:12:45 PM
+			12/20/2024, 12:44:41 AM
 		</td>
 		<td>
-			65264
+			65305
 		</td>
 		<td>
-			142235
+			142309
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			12/20/2024, 12:44:41 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			10
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/CFWorkers">
 				CFWorkers
 			</a>
@@ -237,22 +253,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12/19/2024, 12:18:09 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			6
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			12/19/2024, 6:12:45 PM
 		</td>
 		<td>
 			3
