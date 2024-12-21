@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/21/2024, 6:11:45 AM
+			12/21/2024, 12:15:23 PM
 		</td>
 		<td>
-			65564
+			65626
 		</td>
 		<td>
-			142826
+			142959
 		</td>
 	</tr>
 	<tr>
@@ -183,6 +183,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			12/21/2024, 12:15:22 PM
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -211,22 +227,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			12/20/2024, 12:44:41 AM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			10
 		</td>
 	</tr>
 	<tr>
