@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/22/2024, 6:11:01 PM
+			12/23/2024, 12:46:07 AM
 		</td>
 		<td>
-			65926
+			65985
 		</td>
 		<td>
-			143611
+			143731
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/22/2024, 12:15:23 PM
+			12/23/2024, 12:46:07 AM
 		</td>
 		<td>
-			664
+			665
 		</td>
 		<td>
-			2670
+			2671
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			12/23/2024, 12:46:07 AM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			14
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/vss">
 				vss
 			</a>
@@ -179,22 +195,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			31
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			12/21/2024, 12:15:22 PM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			12
 		</td>
 	</tr>
 	<tr>
