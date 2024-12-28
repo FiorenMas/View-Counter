@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/27/2024, 6:12:19 PM
+			12/28/2024, 12:43:22 AM
 		</td>
 		<td>
-			66969
+			67013
 		</td>
 		<td>
-			145743
+			145839
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/26/2024, 6:12:22 PM
+			12/28/2024, 12:43:23 AM
 		</td>
 		<td>
-			671
+			673
 		</td>
 		<td>
-			2684
+			2688
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/27/2024, 6:12:20 PM
+			12/28/2024, 12:43:22 AM
 		</td>
 		<td>
-			331
+			332
 		</td>
 		<td>
-			744
+			745
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/4/2024, 12:14:04 PM
+			12/28/2024, 12:43:22 AM
 		</td>
 		<td>
-			12
+			13
 		</td>
 		<td>
-			17
+			18
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			12/28/2024, 12:43:22 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/extensions-source">
 				extensions-source
 			</a>
@@ -247,18 +263,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
+			<a href="https://github.com/FiorenMas/buzzalive">
+				buzzalive
 			</a>
 		</td>
 		<td>
-			12/19/2024, 12:18:09 PM
+			12/28/2024, 12:43:21 AM
 		</td>
 		<td>
-			3
+			2
 		</td>
 		<td>
-			6
+			2
 		</td>
 	</tr>
 	<tr>
@@ -291,22 +307,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/buzzalive">
-				buzzalive
-			</a>
-		</td>
-		<td>
-			12/8/2024, 12:17:01 PM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
 		</td>
 	</tr>
 </table>
