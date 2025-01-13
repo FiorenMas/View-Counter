@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/13/2025, 12:18:38 PM
+			1/13/2025, 6:13:33 PM
 		</td>
 		<td>
-			70256
+			70318
 		</td>
 		<td>
-			152493
+			152584
 		</td>
 	</tr>
 	<tr>
@@ -247,6 +247,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
+				youtube-po-token-generator
+			</a>
+		</td>
+		<td>
+			1/13/2025, 6:13:34 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			17
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -275,22 +291,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
-				youtube-po-token-generator
-			</a>
-		</td>
-		<td>
-			1/13/2025, 12:48:51 AM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			4
 		</td>
 	</tr>
 	<tr>
