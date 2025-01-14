@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/13/2025, 6:13:33 PM
+			1/14/2025, 12:42:46 AM
 		</td>
 		<td>
-			70318
+			70358
 		</td>
 		<td>
-			152584
+			152691
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
+				youtube-po-token-generator
+			</a>
+		</td>
+		<td>
+			1/14/2025, 12:42:47 AM
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			18
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
-				youtube-po-token-generator
-			</a>
-		</td>
-		<td>
-			1/13/2025, 6:13:34 PM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			17
 		</td>
 	</tr>
 	<tr>
