@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2025, 12:43:02 AM
+			1/21/2025, 6:13:16 AM
 		</td>
 		<td>
-			71661
+			71703
 		</td>
 		<td>
-			155355
+			155454
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/20/2025, 6:13:45 AM
+			1/21/2025, 6:13:16 AM
 		</td>
 		<td>
-			697
+			698
 		</td>
 		<td>
-			2744
+			2746
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/18/2025, 6:10:39 PM
+			1/21/2025, 6:13:16 AM
 		</td>
 		<td>
-			338
+			339
 		</td>
 		<td>
-			752
+			753
 		</td>
 	</tr>
 	<tr>
@@ -151,6 +151,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
+				youtube-po-token-generator
+			</a>
+		</td>
+		<td>
+			1/21/2025, 6:13:17 AM
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			31
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/MicroG-RE">
 				MicroG-RE
 			</a>
@@ -163,22 +179,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			22
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
-				youtube-po-token-generator
-			</a>
-		</td>
-		<td>
-			1/20/2025, 12:44:36 AM
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			27
 		</td>
 	</tr>
 	<tr>
