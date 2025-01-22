@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2025, 6:12:57 PM
+			1/22/2025, 12:44:28 AM
 		</td>
 		<td>
-			71805
+			71858
 		</td>
 		<td>
-			155639
+			155750
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2025, 6:13:16 AM
+			1/22/2025, 12:44:28 AM
 		</td>
 		<td>
-			698
+			700
 		</td>
 		<td>
-			2746
+			2751
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
+				youtube-po-token-generator
+			</a>
+		</td>
+		<td>
+			1/22/2025, 12:44:29 AM
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			37
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
@@ -147,22 +163,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			18
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
-				youtube-po-token-generator
-			</a>
-		</td>
-		<td>
-			1/21/2025, 12:17:10 PM
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			32
 		</td>
 	</tr>
 	<tr>
