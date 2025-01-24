@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/24/2025, 6:13:07 AM
+			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
-			72297
+			72349
 		</td>
 		<td>
-			156819
+			156918
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/24/2025, 6:13:07 AM
+			1/24/2025, 12:16:54 PM
 		</td>
 		<td>
-			703
+			704
 		</td>
 		<td>
-			2761
+			2765
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2025, 6:13:16 AM
+			1/24/2025, 12:16:54 PM
 		</td>
 		<td>
-			339
+			340
 		</td>
 		<td>
-			753
+			754
 		</td>
 	</tr>
 	<tr>
@@ -119,6 +119,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
+				youtube-po-token-generator
+			</a>
+		</td>
+		<td>
+			1/24/2025, 12:16:54 PM
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			64
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aria2">
 				aria2
 			</a>
@@ -135,34 +151,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/youtube-po-token-generator">
-				youtube-po-token-generator
-			</a>
-		</td>
-		<td>
-			1/23/2025, 12:17:25 PM
-		</td>
-		<td>
-			16
-		</td>
-		<td>
-			42
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
 		</td>
 		<td>
-			12/28/2024, 12:43:22 AM
+			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
-			13
+			14
 		</td>
 		<td>
-			18
+			19
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2025, 12:43:02 AM
+			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
-			11
+			12
 		</td>
 		<td>
-			22
+			33
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/CFWorkers">
+				CFWorkers
+			</a>
+		</td>
+		<td>
+			1/24/2025, 12:16:53 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -247,34 +263,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/CFWorkers">
-				CFWorkers
-			</a>
-		</td>
-		<td>
-			11/24/2024, 12:51:22 AM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/GoodbyeDPI">
 				GoodbyeDPI
 			</a>
 		</td>
 		<td>
-			12/7/2024, 6:12:01 PM
+			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			2
+			3
 		</td>
 	</tr>
 	<tr>
@@ -301,6 +301,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			1/21/2025, 12:17:08 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
 			1
