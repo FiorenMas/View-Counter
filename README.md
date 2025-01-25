@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/25/2025, 6:11:31 AM
+			1/25/2025, 12:14:36 PM
 		</td>
 		<td>
-			72484
+			72541
 		</td>
 		<td>
-			157234
+			157383
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/25/2025, 12:42:05 AM
+			1/25/2025, 12:14:36 PM
 		</td>
 		<td>
-			705
+			706
 		</td>
 		<td>
-			2766
+			2768
 		</td>
 	</tr>
 	<tr>
@@ -103,6 +103,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/aria2">
+				aria2
+			</a>
+		</td>
+		<td>
+			1/25/2025, 12:14:35 PM
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			32
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -131,22 +147,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			64
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/aria2">
-				aria2
-			</a>
-		</td>
-		<td>
-			11/28/2024, 12:48:10 AM
-		</td>
-		<td>
-			16
-		</td>
-		<td>
-			30
 		</td>
 	</tr>
 	<tr>
