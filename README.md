@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/26/2025, 12:14:50 PM
+			1/26/2025, 6:11:02 PM
 		</td>
 		<td>
-			72725
+			72788
 		</td>
 		<td>
-			157747
+			157866
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/26/2025, 12:14:50 PM
+			1/26/2025, 6:11:03 PM
 		</td>
 		<td>
-			708
+			709
 		</td>
 		<td>
-			2770
+			2774
 		</td>
 	</tr>
 	<tr>
@@ -247,28 +247,28 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/GoodbyeDPI">
+				GoodbyeDPI
+			</a>
+		</td>
+		<td>
+			1/26/2025, 6:11:02 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
 		</td>
 		<td>
 			1/7/2025, 12:17:30 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/GoodbyeDPI">
-				GoodbyeDPI
-			</a>
-		</td>
-		<td>
-			1/24/2025, 12:16:53 PM
 		</td>
 		<td>
 			3
