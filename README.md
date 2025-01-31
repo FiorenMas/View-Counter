@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/31/2025, 6:13:21 AM
+			1/31/2025, 12:16:42 PM
 		</td>
 		<td>
-			73649
+			73703
 		</td>
 		<td>
-			159486
+			159572
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/buzzalive">
+				buzzalive
+			</a>
+		</td>
+		<td>
+			1/31/2025, 12:16:40 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			9
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/CFWorkers">
 				CFWorkers
 			</a>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/buzzalive">
-				buzzalive
-			</a>
-		</td>
-		<td>
-			1/7/2025, 12:17:30 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			3
 		</td>
 	</tr>
 	<tr>
