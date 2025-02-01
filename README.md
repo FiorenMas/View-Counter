@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/1/2025, 12:15:02 PM
+			2/1/2025, 6:10:58 PM
 		</td>
 		<td>
-			73898
+			73943
 		</td>
 		<td>
-			159917
+			160050
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/1/2025, 12:15:02 PM
+			2/1/2025, 6:10:58 PM
 		</td>
 		<td>
-			714
+			715
 		</td>
 		<td>
-			2785
+			2786
 		</td>
 	</tr>
 	<tr>
@@ -268,13 +268,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/1/2025, 12:15:02 PM
+			2/1/2025, 6:10:58 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
+				Personal-Ublock-Origin-Rules
+			</a>
+		</td>
+		<td>
+			2/1/2025, 6:10:58 PM
 		</td>
 		<td>
 			3
 		</td>
 		<td>
-			4
+			5
 		</td>
 	</tr>
 	<tr>
@@ -291,22 +307,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
-				Personal-Ublock-Origin-Rules
-			</a>
-		</td>
-		<td>
-			2/1/2025, 6:11:51 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			3
 		</td>
 	</tr>
 	<tr>
