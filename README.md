@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/1/2025, 6:11:51 AM
+			2/1/2025, 12:15:02 PM
 		</td>
 		<td>
-			73846
+			73898
 		</td>
 		<td>
-			159843
+			159917
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/31/2025, 6:13:22 AM
+			2/1/2025, 12:15:02 PM
 		</td>
 		<td>
-			713
+			714
 		</td>
 		<td>
-			2780
+			2785
 		</td>
 	</tr>
 	<tr>
@@ -263,6 +263,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrape-youtube">
+				scrape-youtube
+			</a>
+		</td>
+		<td>
+			2/1/2025, 12:15:02 PM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -281,22 +297,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		<td>
 			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
 				Personal-Ublock-Origin-Rules
-			</a>
-		</td>
-		<td>
-			2/1/2025, 6:11:51 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrape-youtube">
-				scrape-youtube
 			</a>
 		</td>
 		<td>
