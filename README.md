@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/2/2025, 6:11:02 PM
+			2/3/2025, 12:44:52 AM
 		</td>
 		<td>
-			74180
+			74224
 		</td>
 		<td>
-			160497
+			160574
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/2/2025, 6:11:03 PM
+			2/3/2025, 12:44:53 AM
 		</td>
 		<td>
-			718
+			719
 		</td>
 		<td>
-			2800
+			2801
 		</td>
 	</tr>
 	<tr>
@@ -183,6 +183,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrape-youtube">
+				scrape-youtube
+			</a>
+		</td>
+		<td>
+			2/3/2025, 12:44:53 AM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/vss">
 				vss
 			</a>
@@ -195,22 +211,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			31
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrape-youtube">
-				scrape-youtube
-			</a>
-		</td>
-		<td>
-			2/2/2025, 12:46:51 AM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			11
 		</td>
 	</tr>
 	<tr>
