@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/9/2025, 6:11:06 PM
+			2/10/2025, 12:45:46 AM
 		</td>
 		<td>
-			75591
+			75636
 		</td>
 		<td>
-			163230
+			163319
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			2/10/2025, 12:45:46 AM
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			37
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
@@ -147,22 +163,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			19
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			2/3/2025, 6:12:42 PM
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			35
 		</td>
 	</tr>
 	<tr>
