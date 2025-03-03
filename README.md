@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/3/2025, 12:18:17 PM
+			3/3/2025, 6:12:52 PM
 		</td>
 		<td>
-			79588
+			79656
 		</td>
 		<td>
-			171658
+			171813
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/3/2025, 12:48:44 AM
+			3/3/2025, 6:12:53 PM
 		</td>
 		<td>
-			793
+			794
 		</td>
 		<td>
-			2979
+			2980
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/2/2025, 6:11:47 PM
+			3/3/2025, 6:12:53 PM
 		</td>
 		<td>
-			345
+			346
 		</td>
 		<td>
-			759
+			760
 		</td>
 	</tr>
 	<tr>
@@ -103,6 +103,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			3/3/2025, 6:12:52 PM
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			48
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aria2">
 				aria2
 			</a>
@@ -115,22 +131,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			43
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			3/2/2025, 6:11:47 PM
-		</td>
-		<td>
-			19
-		</td>
-		<td>
-			45
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/23/2025, 6:11:07 PM
+			3/3/2025, 6:12:51 PM
 		</td>
 		<td>
-			16
+			17
 		</td>
 		<td>
-			22
+			23
 		</td>
 	</tr>
 	<tr>
@@ -268,13 +268,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/26/2025, 6:11:02 PM
+			3/3/2025, 6:12:51 PM
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			4
+			5
 		</td>
 	</tr>
 	<tr>
@@ -291,6 +291,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			3/3/2025, 6:12:51 PM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
 		</td>
 	</tr>
 	<tr>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			1/21/2025, 12:17:08 PM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
 		</td>
 	</tr>
 </table>
