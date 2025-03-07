@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/7/2025, 12:47:05 AM
+			3/7/2025, 6:13:57 AM
 		</td>
 		<td>
-			80314
+			80361
 		</td>
 		<td>
-			172959
+			173036
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/7/2025, 12:47:06 AM
+			3/7/2025, 6:13:58 AM
 		</td>
 		<td>
-			800
+			801
 		</td>
 		<td>
-			2992
+			2995
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/3/2025, 6:13:37 AM
+			3/7/2025, 6:13:58 AM
 		</td>
 		<td>
-			36
+			37
 		</td>
 		<td>
-			68
+			69
 		</td>
 	</tr>
 	<tr>
@@ -140,13 +140,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/18/2025, 6:13:19 AM
+			3/7/2025, 6:13:58 AM
 		</td>
 		<td>
-			18
+			19
 		</td>
 		<td>
-			23
+			24
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
+				Personal-Ublock-Origin-Rules
+			</a>
+		</td>
+		<td>
+			3/7/2025, 6:13:57 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -227,6 +243,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			30
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/GoodbyeDPI">
+				GoodbyeDPI
+			</a>
+		</td>
+		<td>
+			3/7/2025, 6:13:57 AM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			6
 		</td>
 	</tr>
 	<tr>
@@ -263,50 +295,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/GoodbyeDPI">
-				GoodbyeDPI
-			</a>
-		</td>
-		<td>
-			3/3/2025, 6:12:51 PM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
-				Personal-Ublock-Origin-Rules
-			</a>
-		</td>
-		<td>
-			3/4/2025, 12:18:16 PM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			7
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/extensions">
 				extensions
 			</a>
 		</td>
 		<td>
-			3/3/2025, 6:12:51 PM
+			3/7/2025, 6:13:56 AM
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			2
+			3
 		</td>
 	</tr>
 	<tr>
