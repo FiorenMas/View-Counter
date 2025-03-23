@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/23/2025, 12:52:37 AM
+			3/23/2025, 6:12:47 AM
 		</td>
 		<td>
-			83624
+			83662
 		</td>
 		<td>
-			180045
+			180121
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/23/2025, 12:52:38 AM
+			3/23/2025, 6:12:48 AM
 		</td>
 		<td>
-			847
+			848
 		</td>
 		<td>
-			3109
+			3110
 		</td>
 	</tr>
 	<tr>
@@ -103,6 +103,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrape-youtube">
+				scrape-youtube
+			</a>
+		</td>
+		<td>
+			3/23/2025, 6:12:47 AM
+		</td>
+		<td>
+			29
+		</td>
+		<td>
+			57
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/MicroG-RE">
 				MicroG-RE
 			</a>
@@ -115,22 +131,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			66
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrape-youtube">
-				scrape-youtube
-			</a>
-		</td>
-		<td>
-			3/23/2025, 12:52:38 AM
-		</td>
-		<td>
-			28
-		</td>
-		<td>
-			54
 		</td>
 	</tr>
 	<tr>
