@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/24/2025, 12:50:55 AM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			83852
+			83903
 		</td>
 		<td>
-			180525
+			180614
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/24/2025, 12:50:56 AM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			852
+			853
 		</td>
 		<td>
-			3117
+			3123
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/16/2025, 6:12:46 PM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			357
+			359
 		</td>
 		<td>
-			779
+			788
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/7/2025, 6:13:58 AM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			37
+			38
 		</td>
 		<td>
-			69
+			70
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/23/2025, 12:16:33 PM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			31
+			33
 		</td>
 		<td>
-			59
+			61
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/19/2025, 12:18:21 PM
+			3/24/2025, 6:14:54 AM
 		</td>
 		<td>
-			28
+			29
 		</td>
 		<td>
-			66
+			69
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/CFWorkers">
+				CFWorkers
+			</a>
+		</td>
+		<td>
+			3/24/2025, 6:14:53 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			8
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
 				Personal-Ublock-Origin-Rules
 			</a>
@@ -227,22 +243,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			11
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/CFWorkers">
-				CFWorkers
-			</a>
-		</td>
-		<td>
-			3/10/2025, 12:39:49 AM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			7
 		</td>
 	</tr>
 	<tr>
