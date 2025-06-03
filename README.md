@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/3/2025, 6:16:08 AM
+			6/3/2025, 12:20:54 PM
 		</td>
 		<td>
-			100717
+			100785
 		</td>
 		<td>
-			216580
+			216703
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/3/2025, 12:54:29 AM
+			6/3/2025, 12:20:53 PM
 		</td>
 		<td>
-			79
+			80
 		</td>
 		<td>
-			232
+			233
 		</td>
 	</tr>
 	<tr>
@@ -339,6 +339,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/teste-issue-57">
+				teste-issue-57
+			</a>
+		</td>
+		<td>
+			6/3/2025, 12:20:55 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
