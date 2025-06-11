@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/10/2025, 6:14:52 PM
+			6/11/2025, 12:54:28 AM
 		</td>
 		<td>
-			102772
+			102850
 		</td>
 		<td>
-			220913
+			221072
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/9/2025, 12:20:49 PM
+			6/11/2025, 12:54:29 AM
 		</td>
 		<td>
-			972
+			974
 		</td>
 		<td>
-			3441
+			3449
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
+				Personal-Ublock-Origin-Rules
+			</a>
+		</td>
+		<td>
+			6/11/2025, 12:54:28 AM
+		</td>
+		<td>
+			27
+		</td>
+		<td>
+			34
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -147,22 +163,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			52
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
-				Personal-Ublock-Origin-Rules
-			</a>
-		</td>
-		<td>
-			6/1/2025, 6:13:16 PM
-		</td>
-		<td>
-			26
-		</td>
-		<td>
-			33
 		</td>
 	</tr>
 	<tr>
