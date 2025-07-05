@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/5/2025, 12:18:26 PM
+			7/5/2025, 6:13:14 PM
 		</td>
 		<td>
-			110004
+			110097
 		</td>
 		<td>
-			235548
+			235712
 		</td>
 	</tr>
 	<tr>
@@ -339,6 +339,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/remic">
+				remic
+			</a>
+		</td>
+		<td>
+			7/5/2025, 6:13:14 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 	<tr>
