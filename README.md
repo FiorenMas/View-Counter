@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/9/2025, 6:14:41 PM
+			8/10/2025, 1:02:25 AM
 		</td>
 		<td>
-			119436
+			119520
 		</td>
 		<td>
-			255613
+			255796
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/8/2025, 6:14:19 PM
+			8/10/2025, 1:02:26 AM
 		</td>
 		<td>
-			1059
+			1061
 		</td>
 		<td>
-			3806
+			3809
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/7/2025, 12:23:55 PM
+			8/10/2025, 1:02:25 AM
 		</td>
 		<td>
-			59
+			61
 		</td>
 		<td>
-			111
+			114
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/17/2025, 6:16:15 PM
+			8/10/2025, 1:02:25 AM
 		</td>
 		<td>
-			45
+			46
 		</td>
 		<td>
-			78
+			79
 		</td>
 	</tr>
 	<tr>
@@ -140,13 +140,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/7/2025, 12:23:55 PM
+			8/10/2025, 1:02:25 AM
 		</td>
 		<td>
-			35
+			37
 		</td>
 		<td>
-			55
+			59
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/1/2025, 6:13:16 PM
+			8/10/2025, 1:02:25 AM
 		</td>
 		<td>
-			27
+			28
 		</td>
 		<td>
-			52
+			53
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/5/2025, 12:54:48 AM
+			8/10/2025, 1:02:23 AM
 		</td>
 		<td>
-			20
+			21
 		</td>
 		<td>
-			44
+			45
 		</td>
 	</tr>
 	<tr>
@@ -188,13 +188,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/1/2025, 6:13:15 PM
+			8/10/2025, 1:02:24 AM
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			25
+			26
 		</td>
 	</tr>
 	<tr>
