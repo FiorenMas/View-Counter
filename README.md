@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/16/2025, 6:14:46 AM
+			8/16/2025, 12:18:46 PM
 		</td>
 		<td>
-			121151
+			121221
 		</td>
 		<td>
-			259228
+			259373
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/16/2025, 12:52:51 AM
+			8/16/2025, 12:18:46 PM
 		</td>
 		<td>
-			1065
+			1066
 		</td>
 		<td>
-			3823
+			3827
 		</td>
 	</tr>
 	<tr>
@@ -327,6 +327,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
+				msc.com-python-crawler
+			</a>
+		</td>
+		<td>
+			8/16/2025, 12:18:45 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			6
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/dnspeed">
 				dnspeed
 			</a>
@@ -339,22 +355,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
-				msc.com-python-crawler
-			</a>
-		</td>
-		<td>
-			6/1/2025, 6:13:16 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			5
 		</td>
 	</tr>
 	<tr>
