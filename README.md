@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/12/2025, 12:47:13 AM
+			9/12/2025, 6:15:15 AM
 		</td>
 		<td>
-			130824
+			131065
 		</td>
 		<td>
-			278803
+			279263
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/12/2025, 12:47:14 AM
+			9/12/2025, 6:15:16 AM
 		</td>
 		<td>
-			1104
+			1105
 		</td>
 		<td>
-			3931
+			3941
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/CFWorkers">
+				CFWorkers
+			</a>
+		</td>
+		<td>
+			9/12/2025, 6:15:14 AM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			13
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/vss">
 				vss
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			35
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/CFWorkers">
-				CFWorkers
-			</a>
-		</td>
-		<td>
-			5/28/2025, 12:53:14 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			9
 		</td>
 	</tr>
 	<tr>
