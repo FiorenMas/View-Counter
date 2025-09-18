@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/18/2025, 6:15:40 AM
+			9/18/2025, 12:19:29 PM
 		</td>
 		<td>
-			135512
+			135636
 		</td>
 		<td>
-			287905
+			288183
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/18/2025, 6:15:40 AM
+			9/18/2025, 12:19:29 PM
 		</td>
 		<td>
-			33
+			34
 		</td>
 		<td>
-			60
+			61
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/10/2025, 1:02:23 AM
+			9/18/2025, 12:19:26 PM
 		</td>
 		<td>
-			21
+			22
 		</td>
 		<td>
-			45
+			46
 		</td>
 	</tr>
 	<tr>
@@ -188,13 +188,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/10/2025, 1:02:24 AM
+			9/18/2025, 12:19:27 PM
 		</td>
 		<td>
-			20
+			21
 		</td>
 		<td>
-			26
+			27
 		</td>
 	</tr>
 	<tr>
@@ -279,6 +279,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/dnspeed">
+				dnspeed
+			</a>
+		</td>
+		<td>
+			9/18/2025, 12:19:27 PM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -295,18 +311,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/dnspeed">
-				dnspeed
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
 			</a>
 		</td>
 		<td>
-			8/26/2025, 12:51:57 AM
+			9/18/2025, 12:19:27 PM
 		</td>
 		<td>
 			5
 		</td>
 		<td>
-			6
+			5
 		</td>
 	</tr>
 	<tr>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			6/23/2025, 12:21:57 PM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			4
 		</td>
 	</tr>
 	<tr>
