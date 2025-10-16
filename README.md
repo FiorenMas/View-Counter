@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/16/2025, 12:21:07 PM
+			10/16/2025, 6:15:08 PM
 		</td>
 		<td>
-			148513
+			148669
 		</td>
 		<td>
-			313497
+			313809
 		</td>
 	</tr>
 	<tr>
@@ -279,6 +279,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			10/16/2025, 6:15:07 PM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/dnspeed">
 				dnspeed
 			</a>
@@ -291,22 +307,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			7
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			10/15/2025, 6:16:16 AM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			6
 		</td>
 	</tr>
 	<tr>
