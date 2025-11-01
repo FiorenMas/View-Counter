@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/1/2025, 12:55:10 AM
+			11/1/2025, 6:14:25 AM
 		</td>
 		<td>
-			156272
+			156375
 		</td>
 		<td>
-			328819
+			329032
 		</td>
 	</tr>
 	<tr>
@@ -375,28 +375,28 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/teste-issue-57">
+				teste-issue-57
+			</a>
+		</td>
+		<td>
+			11/1/2025, 6:14:26 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/remic">
 				remic
 			</a>
 		</td>
 		<td>
 			7/5/2025, 6:13:14 PM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			1
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/teste-issue-57">
-				teste-issue-57
-			</a>
-		</td>
-		<td>
-			6/3/2025, 12:20:55 PM
 		</td>
 		<td>
 			1
