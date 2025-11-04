@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2025, 6:17:10 AM
+			11/4/2025, 12:22:32 PM
 		</td>
 		<td>
-			157907
+			158037
 		</td>
 		<td>
-			331914
+			332154
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/21/2025, 6:14:39 PM
+			11/4/2025, 12:22:32 PM
 		</td>
 		<td>
-			396
+			397
 		</td>
 		<td>
-			840
+			841
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/2/2025, 12:55:48 AM
+			11/4/2025, 12:22:30 PM
 		</td>
 		<td>
-			104
+			105
 		</td>
 		<td>
-			277
+			278
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/31/2025, 12:52:12 AM
+			11/4/2025, 12:22:32 PM
 		</td>
 		<td>
-			71
+			72
 		</td>
 		<td>
-			128
+			129
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/5/2025, 6:12:44 PM
+			11/4/2025, 12:22:30 PM
 		</td>
 		<td>
-			24
+			25
 		</td>
 		<td>
-			48
+			50
 		</td>
 	</tr>
 	<tr>
@@ -279,34 +279,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			10/16/2025, 6:15:07 PM
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			7
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/extensions-source">
 				extensions-source
 			</a>
 		</td>
 		<td>
-			10/29/2025, 12:21:48 PM
+			11/4/2025, 12:22:31 PM
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			7
+			8
 		</td>
 	</tr>
 	<tr>
@@ -316,10 +300,26 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/18/2025, 12:19:27 PM
+			11/4/2025, 12:22:30 PM
 		</td>
 		<td>
-			6
+			7
+		</td>
+		<td>
+			8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			10/16/2025, 6:15:07 PM
+		</td>
+		<td>
+			7
 		</td>
 		<td>
 			7
