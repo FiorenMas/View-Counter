@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/5/2025, 12:54:12 AM
+			11/5/2025, 6:16:56 AM
 		</td>
 		<td>
-			158294
+			158381
 		</td>
 		<td>
-			332675
+			332813
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/CFWorkers">
+				CFWorkers
+			</a>
+		</td>
+		<td>
+			11/5/2025, 6:16:54 AM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			14
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			38
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/CFWorkers">
-				CFWorkers
-			</a>
-		</td>
-		<td>
-			9/12/2025, 6:15:14 AM
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			13
 		</td>
 	</tr>
 	<tr>
