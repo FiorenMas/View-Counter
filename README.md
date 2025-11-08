@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/7/2025, 6:15:23 PM
+			11/8/2025, 12:49:31 AM
 		</td>
 		<td>
-			159559
+			159671
 		</td>
 		<td>
-			335097
+			335314
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/6/2025, 12:21:15 PM
+			11/8/2025, 12:49:32 AM
 		</td>
 		<td>
-			1177
+			1178
 		</td>
 		<td>
-			4062
+			4066
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2025, 12:22:30 PM
+			11/8/2025, 12:49:28 AM
 		</td>
 		<td>
-			105
+			106
 		</td>
 		<td>
-			278
+			279
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
+				cloudflare-gateway-pihole-scripts
+			</a>
+		</td>
+		<td>
+			11/8/2025, 12:49:28 AM
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			22
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -227,22 +243,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			14
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
-				cloudflare-gateway-pihole-scripts
-			</a>
-		</td>
-		<td>
-			7/22/2025, 12:57:38 AM
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			21
 		</td>
 	</tr>
 	<tr>
