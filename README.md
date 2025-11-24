@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/24/2025, 12:56:55 AM
+			11/24/2025, 6:18:02 AM
 		</td>
 		<td>
-			167938
+			168034
 		</td>
 		<td>
-			351031
+			351205
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/23/2025, 1:00:17 AM
+			11/24/2025, 6:18:04 AM
 		</td>
 		<td>
-			1204
+			1205
 		</td>
 		<td>
-			4149
+			4150
 		</td>
 	</tr>
 	<tr>
@@ -263,6 +263,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			11/24/2025, 6:18:01 AM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			9
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/GoodbyeDPI">
 				GoodbyeDPI
 			</a>
@@ -275,22 +291,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			11/4/2025, 12:22:31 PM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			8
 		</td>
 	</tr>
 	<tr>
