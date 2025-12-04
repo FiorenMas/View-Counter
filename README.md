@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/3/2025, 6:17:48 PM
+			12/4/2025, 12:54:28 AM
 		</td>
 		<td>
-			172899
+			173029
 		</td>
 		<td>
-			360122
+			360369
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			12/4/2025, 12:54:25 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			13
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/extensions">
 				extensions
 			</a>
@@ -355,22 +371,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			12/3/2025, 6:17:45 PM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			6
 		</td>
 	</tr>
 	<tr>
