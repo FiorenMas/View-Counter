@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/4/2025, 6:18:08 PM
+			12/5/2025, 12:54:48 AM
 		</td>
 		<td>
-			173427
+			173611
 		</td>
 		<td>
-			361094
+			361466
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2025, 12:22:32 PM
+			12/5/2025, 12:54:49 AM
 		</td>
 		<td>
-			72
+			73
 		</td>
 		<td>
-			129
+			130
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			12/5/2025, 12:54:47 AM
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			20
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -211,22 +227,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			25
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			12/4/2025, 12:23:17 PM
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			18
 		</td>
 	</tr>
 	<tr>
@@ -343,6 +343,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
+				msc.com-python-crawler
+			</a>
+		</td>
+		<td>
+			12/5/2025, 12:54:48 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			10
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -355,22 +371,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			30
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
-				msc.com-python-crawler
-			</a>
-		</td>
-		<td>
-			11/1/2025, 12:18:09 PM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			8
 		</td>
 	</tr>
 	<tr>
