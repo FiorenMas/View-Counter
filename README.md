@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/18/2025, 12:53:11 AM
+			12/18/2025, 6:18:21 AM
 		</td>
 		<td>
-			180165
+			180277
 		</td>
 		<td>
-			373861
+			374134
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/16/2025, 12:56:50 AM
+			12/18/2025, 6:18:21 AM
 		</td>
 		<td>
-			106
+			107
 		</td>
 		<td>
-			249
+			252
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/5/2025, 12:54:49 AM
+			12/18/2025, 6:18:22 AM
 		</td>
 		<td>
-			73
+			74
 		</td>
 		<td>
-			130
+			131
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/17/2025, 12:23:22 PM
+			12/18/2025, 6:18:19 AM
 		</td>
 		<td>
-			29
+			30
 		</td>
 		<td>
-			39
+			41
 		</td>
 	</tr>
 	<tr>
@@ -375,6 +375,38 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/remic">
+				remic
+			</a>
+		</td>
+		<td>
+			12/18/2025, 6:18:21 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
+				scrazzz-revanced-patches
+			</a>
+		</td>
+		<td>
+			12/18/2025, 6:18:22 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/teste-issue-57">
 				teste-issue-57
 			</a>
@@ -387,38 +419,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/remic">
-				remic
-			</a>
-		</td>
-		<td>
-			11/12/2025, 12:53:36 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			9/6/2025, 6:13:23 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			2
 		</td>
 	</tr>
 </table>
