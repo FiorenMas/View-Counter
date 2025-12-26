@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/25/2025, 6:16:30 PM
+			12/26/2025, 6:18:38 AM
 		</td>
 		<td>
-			1258
+			1257
 		</td>
 		<td>
-			4262
+			4257
 		</td>
 	</tr>
 	<tr>
@@ -151,6 +151,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			12/26/2025, 6:18:35 AM
+		</td>
+		<td>
+			38
+		</td>
+		<td>
+			49
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -163,22 +179,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			66
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			12/24/2025, 6:19:03 AM
-		</td>
-		<td>
-			37
-		</td>
-		<td>
-			48
 		</td>
 	</tr>
 	<tr>
@@ -211,6 +211,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			29
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/GoodbyeDPI">
+				GoodbyeDPI
+			</a>
+		</td>
+		<td>
+			12/26/2025, 6:18:36 AM
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			12
 		</td>
 	</tr>
 	<tr>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			22
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/GoodbyeDPI">
-				GoodbyeDPI
-			</a>
-		</td>
-		<td>
-			12/19/2025, 12:21:45 PM
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			11
 		</td>
 	</tr>
 	<tr>
