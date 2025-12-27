@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/26/2025, 12:21:56 PM
+			12/27/2025, 12:20:30 PM
 		</td>
 		<td>
-			184477
+			185006
 		</td>
 		<td>
-			381886
+			382981
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/27/2025, 12:55:07 AM
+			12/27/2025, 12:20:31 PM
 		</td>
 		<td>
-			1260
+			1257
 		</td>
 		<td>
-			4264
+			4257
 		</td>
 	</tr>
 	<tr>
@@ -71,6 +71,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/MicroG-RE">
+				MicroG-RE
+			</a>
+		</td>
+		<td>
+			12/27/2025, 12:20:30 PM
+		</td>
+		<td>
+			109
+		</td>
+		<td>
+			254
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Cloudflare-Gateway-Update-DDNS-For-DNS-Locations">
 				Cloudflare-Gateway-Update-DDNS-For-DNS-Locations
 			</a>
@@ -83,22 +99,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			281
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/MicroG-RE">
-				MicroG-RE
-			</a>
-		</td>
-		<td>
-			12/18/2025, 6:18:21 AM
-		</td>
-		<td>
-			107
-		</td>
-		<td>
-			252
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/26/2025, 6:18:35 AM
+			12/27/2025, 12:20:29 PM
 		</td>
 		<td>
-			38
+			41
 		</td>
 		<td>
-			49
+			54
 		</td>
 	</tr>
 	<tr>
@@ -188,13 +188,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/27/2025, 12:21:58 PM
+			12/27/2025, 12:20:29 PM
 		</td>
 		<td>
-			28
+			29
 		</td>
 		<td>
-			53
+			54
 		</td>
 	</tr>
 	<tr>
@@ -279,6 +279,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			12/27/2025, 12:20:30 PM
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/vss">
 				vss
 			</a>
@@ -291,22 +307,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			40
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			12/9/2025, 12:23:01 PM
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			10
 		</td>
 	</tr>
 	<tr>
