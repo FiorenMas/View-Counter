@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			12/27/2025, 12:20:31 PM
+			12/27/2025, 6:15:37 PM
 		</td>
 		<td>
-			1257
+			1262
 		</td>
 		<td>
-			4257
+			4267
 		</td>
 	</tr>
 	<tr>
@@ -375,28 +375,28 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
+				scrazzz-revanced-patches
+			</a>
+		</td>
+		<td>
+			12/27/2025, 6:15:37 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/remic">
 				remic
 			</a>
 		</td>
 		<td>
 			12/18/2025, 6:18:21 AM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			12/18/2025, 6:18:22 AM
 		</td>
 		<td>
 			3
