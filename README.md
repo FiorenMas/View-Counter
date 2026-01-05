@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/4/2026, 12:20:59 PM
+			1/5/2026, 12:24:31 PM
 		</td>
 		<td>
-			117
+			118
 		</td>
 		<td>
-			270
+			272
 		</td>
 	</tr>
 	<tr>
@@ -419,6 +419,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
+				hagezi-to-nextdns
+			</a>
+		</td>
+		<td>
+			1/5/2026, 12:24:31 PM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
