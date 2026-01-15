@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/14/2026, 12:24:15 PM
+			1/15/2026, 12:56:30 AM
 		</td>
 		<td>
-			1302
+			1303
 		</td>
 		<td>
-			4412
+			4413
 		</td>
 	</tr>
 	<tr>
@@ -247,6 +247,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/vss">
+				vss
+			</a>
+		</td>
+		<td>
+			1/15/2026, 12:56:30 AM
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			41
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -295,34 +311,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/vss">
-				vss
-			</a>
-		</td>
-		<td>
-			12/8/2025, 6:19:56 AM
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			40
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/dnspeed">
 				dnspeed
 			</a>
 		</td>
 		<td>
-			1/6/2026, 12:57:49 AM
+			1/15/2026, 12:56:28 AM
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			14
+			16
 		</td>
 	</tr>
 	<tr>
