@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/23/2026, 6:20:00 AM
+			1/24/2026, 6:18:04 AM
 		</td>
 		<td>
-			200017
+			200726
 		</td>
 		<td>
-			413619
+			414965
 		</td>
 	</tr>
 	<tr>
@@ -432,6 +432,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			2
+		</td>
+		<td>
+			2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/My-userscript">
+				My-userscript
+			</a>
+		</td>
+		<td>
+			1/24/2026, 6:18:04 AM
+		</td>
+		<td>
+			1
 		</td>
 		<td>
 			2
