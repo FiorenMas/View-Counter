@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/24/2026, 6:18:04 AM
+			1/25/2026, 6:18:11 AM
 		</td>
 		<td>
-			200726
+			201309
 		</td>
 		<td>
-			414965
+			416083
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/21/2026, 6:21:50 AM
+			1/25/2026, 6:18:11 AM
 		</td>
 		<td>
-			131
+			132
 		</td>
 		<td>
-			287
+			289
 		</td>
 	</tr>
 	<tr>
@@ -204,13 +204,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/25/2025, 12:52:30 AM
+			1/25/2026, 6:18:10 AM
 		</td>
 		<td>
-			23
+			24
 		</td>
 		<td>
-			29
+			30
 		</td>
 	</tr>
 	<tr>
@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/My-userscript">
+				My-userscript
+			</a>
+		</td>
+		<td>
+			1/25/2026, 6:18:11 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/remic">
 				remic
 			</a>
@@ -432,22 +448,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			2
-		</td>
-		<td>
-			2
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/My-userscript">
-				My-userscript
-			</a>
-		</td>
-		<td>
-			1/24/2026, 6:18:04 AM
-		</td>
-		<td>
-			1
 		</td>
 		<td>
 			2
