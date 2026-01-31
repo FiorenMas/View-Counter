@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/30/2026, 12:30:50 PM
+			1/31/2026, 12:24:34 PM
 		</td>
 		<td>
-			204173
+			204757
 		</td>
 		<td>
-			421437
+			422506
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/30/2026, 12:30:52 PM
+			1/31/2026, 12:24:35 PM
 		</td>
 		<td>
-			1354
+			1356
 		</td>
 		<td>
-			4510
+			4512
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			1/26/2026, 6:23:11 AM
+			1/31/2026, 12:24:31 PM
 		</td>
 		<td>
-			69
+			71
 		</td>
 		<td>
-			94
+			97
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/dnspeed">
+				dnspeed
+			</a>
+		</td>
+		<td>
+			1/31/2026, 12:24:32 PM
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			26
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/GoodbyeDPI">
 				GoodbyeDPI
 			</a>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			23
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/dnspeed">
-				dnspeed
-			</a>
-		</td>
-		<td>
-			1/16/2026, 12:58:50 AM
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			20
 		</td>
 	</tr>
 	<tr>
@@ -359,6 +359,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
+				scrazzz-revanced-patches
+			</a>
+		</td>
+		<td>
+			1/31/2026, 12:24:34 PM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			23
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -371,22 +387,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			30
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			1/22/2026, 6:20:39 AM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			16
 		</td>
 	</tr>
 	<tr>
