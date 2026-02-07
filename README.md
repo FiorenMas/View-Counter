@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/5/2026, 6:43:37 AM
+			2/7/2026, 12:25:12 PM
 		</td>
 		<td>
-			1366
+			1367
 		</td>
 		<td>
-			4527
+			4528
 		</td>
 	</tr>
 	<tr>
@@ -247,6 +247,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
+				cloudflare-gateway-pihole-scripts
+			</a>
+		</td>
+		<td>
+			2/7/2026, 12:25:10 PM
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			24
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/GoodbyeDPI">
 				GoodbyeDPI
 			</a>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			13
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
-				cloudflare-gateway-pihole-scripts
-			</a>
-		</td>
-		<td>
-			1/28/2026, 12:27:16 PM
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			23
 		</td>
 	</tr>
 	<tr>
