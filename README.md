@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/10/2026, 12:46:49 PM
+			2/11/2026, 6:50:12 AM
 		</td>
 		<td>
-			209901
+			210377
 		</td>
 		<td>
-			432989
+			433930
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/9/2026, 12:42:22 PM
+			2/11/2026, 6:50:13 AM
 		</td>
 		<td>
-			1371
+			1373
 		</td>
 		<td>
-			4554
+			4556
 		</td>
 	</tr>
 	<tr>
@@ -103,6 +103,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			2/11/2026, 6:50:10 AM
+		</td>
+		<td>
+			77
+		</td>
+		<td>
+			108
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/scrape-youtube">
 				scrape-youtube
 			</a>
@@ -115,22 +131,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			133
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			2/3/2026, 12:34:40 PM
-		</td>
-		<td>
-			74
-		</td>
-		<td>
-			104
 		</td>
 	</tr>
 	<tr>
