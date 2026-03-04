@@ -279,22 +279,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/vss">
-				vss
-			</a>
-		</td>
-		<td>
-			1/15/2026, 12:56:30 AM
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			41
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
