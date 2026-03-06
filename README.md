@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/5/2026, 12:35:44 PM
+			3/6/2026, 12:31:33 PM
 		</td>
 		<td>
-			222363
+			223084
 		</td>
 		<td>
-			458062
+			459525
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/5/2026, 12:35:45 PM
+			3/6/2026, 12:31:34 PM
 		</td>
 		<td>
-			1406
+			1408
 		</td>
 		<td>
-			4625
+			4627
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/5/2026, 12:35:44 PM
+			3/6/2026, 12:31:33 PM
 		</td>
 		<td>
-			163
+			164
 		</td>
 		<td>
-			348
+			349
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/1/2026, 6:33:21 AM
+			3/6/2026, 12:31:32 PM
 		</td>
 		<td>
-			117
+			119
 		</td>
 		<td>
-			295
+			297
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/26/2026, 6:46:27 AM
+			3/6/2026, 12:31:31 PM
 		</td>
 		<td>
-			90
+			92
 		</td>
 		<td>
-			124
+			126
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			2/15/2026, 6:38:00 AM
+			3/6/2026, 12:31:33 PM
 		</td>
 		<td>
-			52
+			53
 		</td>
 		<td>
-			82
+			87
 		</td>
 	</tr>
 	<tr>
@@ -172,13 +172,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/5/2026, 12:35:45 PM
+			3/6/2026, 12:31:34 PM
 		</td>
 		<td>
-			41
+			42
 		</td>
 		<td>
-			90
+			91
 		</td>
 	</tr>
 	<tr>
@@ -327,6 +327,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
+				scrazzz-revanced-patches
+			</a>
+		</td>
+		<td>
+			3/6/2026, 12:31:34 PM
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			77
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -339,22 +355,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			10
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			1/31/2026, 12:24:34 PM
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			23
 		</td>
 	</tr>
 	<tr>
