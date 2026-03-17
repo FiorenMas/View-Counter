@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/16/2026, 12:44:50 PM
+			3/17/2026, 12:43:43 PM
 		</td>
 		<td>
-			229089
+			229615
 		</td>
 		<td>
-			471483
+			472530
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/15/2026, 12:29:13 PM
+			3/17/2026, 12:43:43 PM
 		</td>
 		<td>
-			175
+			176
 		</td>
 		<td>
-			364
+			373
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/9/2026, 12:36:16 PM
+			3/17/2026, 12:43:41 PM
 		</td>
 		<td>
-			120
+			121
 		</td>
 		<td>
-			298
+			300
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
+				Personal-Ublock-Origin-Rules
+			</a>
+		</td>
+		<td>
+			3/17/2026, 12:43:43 PM
+		</td>
+		<td>
+			55
+		</td>
+		<td>
+			90
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-cli">
 				revanced-cli
 			</a>
@@ -144,22 +160,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			55
-		</td>
-		<td>
-			88
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
-				Personal-Ublock-Origin-Rules
-			</a>
-		</td>
-		<td>
-			3/15/2026, 12:29:14 PM
-		</td>
-		<td>
-			54
 		</td>
 		<td>
 			88
