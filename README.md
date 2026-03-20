@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/19/2026, 12:37:54 PM
+			3/20/2026, 12:34:35 PM
 		</td>
 		<td>
-			230752
+			231390
 		</td>
 		<td>
-			474740
+			476041
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/19/2026, 12:37:55 PM
+			3/20/2026, 12:34:37 PM
 		</td>
 		<td>
-			1425
+			1428
 		</td>
 		<td>
-			4668
+			4673
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/18/2026, 12:43:56 PM
+			3/20/2026, 12:34:32 PM
 		</td>
 		<td>
-			101
+			102
 		</td>
 		<td>
-			138
+			139
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
+				scrazzz-revanced-patches
+			</a>
+		</td>
+		<td>
+			3/20/2026, 12:34:36 PM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			80
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/extensions">
 				extensions
 			</a>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			3/6/2026, 12:31:34 PM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			77
 		</td>
 	</tr>
 	<tr>
