@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/28/2026, 12:31:31 PM
+			3/29/2026, 12:31:20 PM
 		</td>
 		<td>
-			235443
+			235963
 		</td>
 		<td>
-			483787
+			484855
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/28/2026, 12:31:31 PM
+			3/29/2026, 12:31:21 PM
 		</td>
 		<td>
-			1447
+			1450
 		</td>
 		<td>
-			4699
+			4719
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/28/2026, 12:31:30 PM
+			3/29/2026, 12:31:19 PM
 		</td>
 		<td>
-			187
+			188
 		</td>
 		<td>
-			387
+			390
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			3/29/2026, 12:31:18 PM
+		</td>
+		<td>
+			26
+		</td>
+		<td>
+			49
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
@@ -211,22 +227,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			31
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			3/27/2026, 12:39:03 PM
-		</td>
-		<td>
-			24
-		</td>
-		<td>
-			41
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			3/29/2026, 12:31:18 PM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
 				scrazzz-revanced-patches
 			</a>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			80
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			12/6/2025, 12:52:03 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			9
 		</td>
 	</tr>
 	<tr>
