@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/3/2026, 12:38:24 PM
+			4/4/2026, 12:31:22 PM
 		</td>
 		<td>
-			238307
+			238879
 		</td>
 		<td>
-			489248
+			490315
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/3/2026, 12:38:24 PM
+			4/4/2026, 12:31:23 PM
 		</td>
 		<td>
-			1458
+			1460
 		</td>
 		<td>
-			4738
+			4740
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/1/2026, 12:53:50 PM
+			4/4/2026, 12:31:22 PM
 		</td>
 		<td>
-			190
+			192
 		</td>
 		<td>
-			393
+			395
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			4/4/2026, 12:31:20 PM
+		</td>
+		<td>
+			125
+		</td>
+		<td>
+			196
 		</td>
 	</tr>
 	<tr>
@@ -99,22 +115,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			303
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			4/3/2026, 12:38:21 PM
-		</td>
-		<td>
-			123
-		</td>
-		<td>
-			189
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Clean-Social-Link">
+				Clean-Social-Link
+			</a>
+		</td>
+		<td>
+			4/4/2026, 12:31:20 PM
+		</td>
+		<td>
+			55
+		</td>
+		<td>
+			132
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -183,34 +199,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/Clean-Social-Link">
-				Clean-Social-Link
-			</a>
-		</td>
-		<td>
-			4/3/2026, 12:38:22 PM
-		</td>
-		<td>
-			37
-		</td>
-		<td>
-			91
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/extensions-source">
 				extensions-source
 			</a>
 		</td>
 		<td>
-			4/3/2026, 12:38:22 PM
+			4/4/2026, 12:31:21 PM
 		</td>
 		<td>
-			33
+			34
 		</td>
 		<td>
-			66
+			67
 		</td>
 	</tr>
 	<tr>
