@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/4/2026, 12:31:22 PM
+			4/5/2026, 12:33:22 PM
 		</td>
 		<td>
-			238879
+			239387
 		</td>
 		<td>
-			490315
+			491323
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/4/2026, 12:31:23 PM
+			4/5/2026, 12:33:23 PM
 		</td>
 		<td>
-			1460
+			1464
 		</td>
 		<td>
-			4740
+			4744
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/4/2026, 12:31:22 PM
+			4/5/2026, 12:33:21 PM
 		</td>
 		<td>
-			192
+			193
 		</td>
 		<td>
-			395
+			396
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/4/2026, 12:31:20 PM
+			4/5/2026, 12:33:19 PM
 		</td>
 		<td>
-			125
+			128
 		</td>
 		<td>
-			196
+			201
 		</td>
 	</tr>
 	<tr>
@@ -135,6 +135,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Clean-Social-Link">
+				Clean-Social-Link
+			</a>
+		</td>
+		<td>
+			4/5/2026, 12:33:19 PM
+		</td>
+		<td>
+			68
+		</td>
+		<td>
+			154
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
 				Personal-Ublock-Origin-Rules
 			</a>
@@ -167,22 +183,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/Clean-Social-Link">
-				Clean-Social-Link
-			</a>
-		</td>
-		<td>
-			4/4/2026, 12:31:20 PM
-		</td>
-		<td>
-			55
-		</td>
-		<td>
-			132
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -204,13 +204,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/4/2026, 12:31:21 PM
+			4/5/2026, 12:33:20 PM
 		</td>
 		<td>
-			34
+			35
 		</td>
 		<td>
-			67
+			68
 		</td>
 	</tr>
 	<tr>
