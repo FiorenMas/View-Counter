@@ -39,22 +39,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/Userscripts">
-				Userscripts
-			</a>
-		</td>
-		<td>
-			4/7/2026, 12:55:47 PM
-		</td>
-		<td>
-			1467
-		</td>
-		<td>
-			4751
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/Shortlink">
 				Shortlink
 			</a>
