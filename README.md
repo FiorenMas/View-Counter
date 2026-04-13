@@ -332,13 +332,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/20/2026, 12:34:36 PM
+			4/13/2026, 6:59:50 PM
 		</td>
 		<td>
-			9
+			10
 		</td>
 		<td>
-			80
+			81
 		</td>
 	</tr>
 	<tr>
