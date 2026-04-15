@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/14/2026, 12:59:50 PM
+			4/15/2026, 12:58:56 PM
 		</td>
 		<td>
-			243712
+			244136
 		</td>
 		<td>
-			499653
+			500370
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/12/2026, 12:36:51 PM
+			4/15/2026, 12:58:55 PM
 		</td>
 		<td>
-			197
+			198
 		</td>
 		<td>
-			400
+			401
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/14/2026, 12:59:47 PM
+			4/15/2026, 12:58:52 PM
 		</td>
 		<td>
-			148
+			150
 		</td>
 		<td>
-			224
+			226
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/10/2026, 12:44:02 PM
+			4/15/2026, 12:58:53 PM
 		</td>
 		<td>
-			126
+			127
 		</td>
 		<td>
-			305
+			307
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/14/2026, 12:59:48 PM
+			4/15/2026, 12:58:53 PM
 		</td>
 		<td>
-			102
+			105
 		</td>
 		<td>
-			205
+			209
 		</td>
 	</tr>
 	<tr>
@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/komikku">
+				komikku
+			</a>
+		</td>
+		<td>
+			4/15/2026, 12:58:55 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -407,18 +423,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/komikku">
-				komikku
+			<a href="https://github.com/FiorenMas/kotatsu-parsers">
+				kotatsu-parsers
 			</a>
 		</td>
 		<td>
-			4/11/2026, 12:33:57 PM
+			4/15/2026, 12:58:55 PM
 		</td>
 		<td>
 			3
 		</td>
 		<td>
-			3
+			4
 		</td>
 	</tr>
 	<tr>
@@ -448,22 +464,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/kotatsu-parsers">
-				kotatsu-parsers
-			</a>
-		</td>
-		<td>
-			3/12/2026, 1:03:10 AM
-		</td>
-		<td>
-			2
 		</td>
 		<td>
 			3
