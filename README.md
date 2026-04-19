@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/18/2026, 12:37:32 PM
+			4/19/2026, 12:36:24 PM
 		</td>
 		<td>
-			245523
+			245989
 		</td>
 		<td>
-			502995
+			503834
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/18/2026, 12:37:31 PM
+			4/19/2026, 12:36:23 PM
 		</td>
 		<td>
-			206
+			207
 		</td>
 		<td>
-			412
+			413
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/18/2026, 12:37:29 PM
+			4/19/2026, 12:36:22 PM
 		</td>
 		<td>
-			113
+			114
 		</td>
 		<td>
-			222
+			223
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/dnspeed">
+				dnspeed
+			</a>
+		</td>
+		<td>
+			4/19/2026, 12:36:22 PM
+		</td>
+		<td>
+			19
+		</td>
+		<td>
+			33
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			30
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/dnspeed">
-				dnspeed
-			</a>
-		</td>
-		<td>
-			3/3/2026, 12:32:49 PM
-		</td>
-		<td>
-			18
-		</td>
-		<td>
-			31
 		</td>
 	</tr>
 	<tr>
