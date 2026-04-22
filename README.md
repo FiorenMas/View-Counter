@@ -453,21 +453,5 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			3
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/teste-issue-57">
-				teste-issue-57
-			</a>
-		</td>
-		<td>
-			11/4/2025, 6:17:11 AM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
 </table>
 
