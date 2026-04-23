@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/22/2026, 12:59:37 PM
+			4/23/2026, 12:59:08 PM
 		</td>
 		<td>
-			247419
+			247849
 		</td>
 		<td>
-			506629
+			507418
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/22/2026, 12:59:35 PM
+			4/23/2026, 12:59:07 PM
 		</td>
 		<td>
-			209
+			211
 		</td>
 		<td>
-			415
+			418
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/22/2026, 12:59:33 PM
+			4/23/2026, 12:59:04 PM
 		</td>
 		<td>
-			164
+			166
 		</td>
 		<td>
-			249
+			251
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/22/2026, 12:59:33 PM
+			4/23/2026, 12:59:05 PM
 		</td>
 		<td>
-			118
+			120
 		</td>
 		<td>
-			233
+			236
 		</td>
 	</tr>
 	<tr>
@@ -204,13 +204,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			3/23/2026, 12:40:42 PM
+			4/23/2026, 12:59:04 PM
 		</td>
 		<td>
-			31
+			32
 		</td>
 		<td>
-			56
+			57
 		</td>
 	</tr>
 	<tr>
@@ -451,6 +451,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/NexusKey">
+				NexusKey
+			</a>
+		</td>
+		<td>
+			4/23/2026, 12:59:08 PM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			28
 		</td>
 	</tr>
 </table>
