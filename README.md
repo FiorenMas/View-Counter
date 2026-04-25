@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/24/2026, 7:47:16 AM
+			4/25/2026, 12:38:46 PM
 		</td>
 		<td>
-			248239
+			248682
 		</td>
 		<td>
-			508165
+			509039
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/23/2026, 12:59:07 PM
+			4/25/2026, 12:38:45 PM
 		</td>
 		<td>
-			211
+			212
 		</td>
 		<td>
-			418
+			419
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/24/2026, 7:47:14 AM
+			4/25/2026, 12:38:43 PM
 		</td>
 		<td>
-			167
+			168
 		</td>
 		<td>
-			252
+			254
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/23/2026, 12:59:05 PM
+			4/25/2026, 12:38:43 PM
 		</td>
 		<td>
-			120
+			121
 		</td>
 		<td>
-			236
+			238
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			4/25/2026, 12:38:44 PM
+		</td>
+		<td>
+			45
+		</td>
+		<td>
+			89
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/revanced-patches">
 				revanced-patches
 			</a>
@@ -179,22 +195,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			94
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			4/12/2026, 12:36:51 PM
-		</td>
-		<td>
-			43
-		</td>
-		<td>
-			84
 		</td>
 	</tr>
 	<tr>
@@ -407,6 +407,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/NexusKey">
+				NexusKey
+			</a>
+		</td>
+		<td>
+			4/25/2026, 12:38:46 PM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			44
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -451,22 +467,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/NexusKey">
-				NexusKey
-			</a>
-		</td>
-		<td>
-			4/23/2026, 12:59:08 PM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			28
 		</td>
 	</tr>
 </table>
