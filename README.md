@@ -39,22 +39,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/Shortlink">
-				Shortlink
-			</a>
-		</td>
-		<td>
-			4/17/2026, 12:54:44 PM
-		</td>
-		<td>
-			409
-		</td>
-		<td>
-			855
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/MicroG-RE">
 				MicroG-RE
 			</a>
