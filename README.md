@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/27/2026, 8:03:31 AM
+			4/28/2026, 8:05:25 AM
 		</td>
 		<td>
-			249527
+			249860
 		</td>
 		<td>
-			510688
+			511347
 		</td>
 	</tr>
 	<tr>
@@ -311,22 +311,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/scrazzz-revanced-patches">
-				scrazzz-revanced-patches
-			</a>
-		</td>
-		<td>
-			4/13/2026, 6:59:50 PM
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			81
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -339,6 +323,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/NexusKey">
+				NexusKey
+			</a>
+		</td>
+		<td>
+			4/28/2026, 8:05:24 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			62
 		</td>
 	</tr>
 	<tr>
@@ -371,22 +371,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/NexusKey">
-				NexusKey
-			</a>
-		</td>
-		<td>
-			4/27/2026, 8:03:31 AM
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			48
 		</td>
 	</tr>
 	<tr>
