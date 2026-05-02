@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/1/2026, 8:00:22 AM
+			5/2/2026, 12:44:34 PM
 		</td>
 		<td>
-			250909
+			251333
 		</td>
 		<td>
-			513284
+			514094
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/1/2026, 8:00:21 AM
+			5/2/2026, 12:44:34 PM
 		</td>
 		<td>
-			215
+			217
 		</td>
 		<td>
-			422
+			425
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/1/2026, 8:00:19 AM
+			5/2/2026, 12:44:32 PM
 		</td>
 		<td>
-			173
+			174
 		</td>
 		<td>
-			262
+			263
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/25/2026, 12:38:44 PM
+			5/2/2026, 12:44:33 PM
 		</td>
 		<td>
-			45
+			46
 		</td>
 		<td>
-			89
+			90
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/komikku">
+				komikku
+			</a>
+		</td>
+		<td>
+			5/2/2026, 12:44:33 PM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			38
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/komikku">
-				komikku
-			</a>
-		</td>
-		<td>
-			5/1/2026, 8:00:21 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			37
 		</td>
 	</tr>
 	<tr>
