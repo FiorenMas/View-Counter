@@ -39,6 +39,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Cap">
+				Cap
+			</a>
+		</td>
+		<td>
+			5/17/2026, 6:52:42 PM
+		</td>
+		<td>
+			230
+		</td>
+		<td>
+			399
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/MicroG-RE">
 				MicroG-RE
 			</a>
@@ -51,22 +67,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			431
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Cap">
-				Cap
-			</a>
-		</td>
-		<td>
-			5/16/2026, 12:56:38 PM
-		</td>
-		<td>
-			215
-		</td>
-		<td>
-			370
 		</td>
 	</tr>
 	<tr>
