@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/24/2026, 8:15:28 AM
+			5/25/2026, 9:46:17 AM
 		</td>
 		<td>
-			259376
+			259784
 		</td>
 		<td>
-			528996
+			529811
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/24/2026, 8:15:25 AM
+			5/25/2026, 9:46:14 AM
 		</td>
 		<td>
-			299
+			324
 		</td>
 		<td>
-			569
+			620
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/24/2026, 8:15:27 AM
+			5/25/2026, 9:46:16 AM
 		</td>
 		<td>
-			232
+			234
 		</td>
 		<td>
-			445
+			453
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/24/2026, 8:15:25 AM
+			5/25/2026, 9:46:14 AM
 		</td>
 		<td>
-			144
+			145
 		</td>
 		<td>
-			277
+			278
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/30/2026, 8:02:19 AM
+			5/25/2026, 9:46:18 AM
 		</td>
 		<td>
-			79
+			80
 		</td>
 		<td>
-			136
+			141
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			5/25/2026, 9:46:15 AM
+		</td>
+		<td>
+			68
+		</td>
+		<td>
+			148
 		</td>
 	</tr>
 	<tr>
@@ -140,29 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/27/2026, 8:03:31 AM
+			5/25/2026, 9:46:17 AM
 		</td>
 		<td>
-			59
+			60
 		</td>
 		<td>
-			95
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			5/23/2026, 8:04:55 AM
-		</td>
-		<td>
-			55
-		</td>
-		<td>
-			103
+			96
 		</td>
 	</tr>
 	<tr>
@@ -439,6 +439,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-extended">
+				lnreader-extended
+			</a>
+		</td>
+		<td>
+			5/25/2026, 9:46:16 AM
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/lnreader-plugins">
 				lnreader-plugins
 			</a>
@@ -451,22 +467,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			15
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-extended">
-				lnreader-extended
-			</a>
-		</td>
-		<td>
-			4/30/2026, 8:02:16 AM
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			2
 		</td>
 	</tr>
 </table>
