@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/27/2026, 8:59:26 AM
+			5/28/2026, 9:43:00 AM
 		</td>
 		<td>
-			260404
+			260857
 		</td>
 		<td>
-			530960
+			531786
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/27/2026, 8:59:24 AM
+			5/28/2026, 9:42:56 AM
 		</td>
 		<td>
-			344
+			351
 		</td>
 		<td>
-			648
+			657
 		</td>
 	</tr>
 	<tr>
@@ -108,29 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/27/2026, 8:59:25 AM
+			5/28/2026, 9:42:58 AM
 		</td>
 		<td>
-			80
+			81
 		</td>
 		<td>
-			184
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/scrape-youtube">
-				scrape-youtube
-			</a>
-		</td>
-		<td>
-			5/25/2026, 9:46:18 AM
-		</td>
-		<td>
-			80
-		</td>
-		<td>
-			141
+			185
 		</td>
 	</tr>
 	<tr>
@@ -163,22 +147,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			96
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/revanced-patches">
-				revanced-patches
-			</a>
-		</td>
-		<td>
-			3/24/2026, 12:44:44 PM
-		</td>
-		<td>
-			44
-		</td>
-		<td>
-			94
 		</td>
 	</tr>
 	<tr>
