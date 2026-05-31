@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/30/2026, 8:15:00 AM
+			5/31/2026, 8:33:00 AM
 		</td>
 		<td>
-			261628
+			262058
 		</td>
 		<td>
-			533119
+			533919
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/30/2026, 8:14:56 AM
+			5/31/2026, 8:32:57 AM
 		</td>
 		<td>
-			374
+			376
 		</td>
 		<td>
-			710
+			712
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/26/2026, 9:33:55 AM
+			5/31/2026, 8:32:57 AM
 		</td>
 		<td>
-			147
+			149
 		</td>
 		<td>
-			280
+			286
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/29/2026, 9:33:06 AM
+			5/31/2026, 8:32:58 AM
 		</td>
 		<td>
-			84
+			85
 		</td>
 		<td>
-			191
+			192
 		</td>
 	</tr>
 	<tr>
@@ -284,13 +284,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/2/2026, 12:44:33 PM
+			5/31/2026, 8:32:59 AM
 		</td>
 		<td>
-			9
+			10
 		</td>
 		<td>
-			38
+			39
 		</td>
 	</tr>
 	<tr>
@@ -359,6 +359,38 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/anime-extensions">
+				anime-extensions
+			</a>
+		</td>
+		<td>
+			5/31/2026, 8:32:56 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			5/31/2026, 8:32:59 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			19
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -407,22 +439,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/anime-extensions">
-				anime-extensions
-			</a>
-		</td>
-		<td>
-			5/30/2026, 8:14:56 AM
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			5
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/lnreader-extended">
 				lnreader-extended
 			</a>
@@ -439,18 +455,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
+			<a href="https://github.com/FiorenMas/aniyomi-repo">
+				aniyomi-repo
 			</a>
 		</td>
 		<td>
-			5/10/2026, 7:55:08 AM
+			5/31/2026, 8:32:56 AM
 		</td>
 		<td>
-			2
+			1
 		</td>
 		<td>
-			15
+			3
 		</td>
 	</tr>
 </table>
