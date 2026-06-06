@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/aniyomi-repo">
+				aniyomi-repo
+			</a>
+		</td>
+		<td>
+			6/6/2026, 7:03:32 PM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			10
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -448,22 +464,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			2
-		</td>
-		<td>
-			3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/aniyomi-repo">
-				aniyomi-repo
-			</a>
-		</td>
-		<td>
-			5/31/2026, 8:32:56 AM
-		</td>
-		<td>
-			1
 		</td>
 		<td>
 			3
