@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/5/2026, 9:28:34 AM
+			6/6/2026, 8:22:21 AM
 		</td>
 		<td>
-			263611
+			263974
 		</td>
 		<td>
-			536741
+			537449
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/5/2026, 9:28:29 AM
+			6/6/2026, 8:22:18 AM
 		</td>
 		<td>
-			432
+			502
 		</td>
 		<td>
-			826
+			1043
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/4/2026, 9:41:29 AM
+			6/6/2026, 8:22:20 AM
 		</td>
 		<td>
-			241
+			242
 		</td>
 		<td>
-			462
+			463
 		</td>
 	</tr>
 	<tr>
@@ -284,13 +284,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/31/2026, 8:32:59 AM
+			6/6/2026, 8:22:20 AM
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			40
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/anime-extensions">
+				anime-extensions
+			</a>
+		</td>
+		<td>
+			6/6/2026, 8:22:18 AM
 		</td>
 		<td>
 			10
 		</td>
 		<td>
-			39
+			22
 		</td>
 	</tr>
 	<tr>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			66
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/anime-extensions">
-				anime-extensions
-			</a>
-		</td>
-		<td>
-			6/4/2026, 9:41:25 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			15
 		</td>
 	</tr>
 	<tr>
