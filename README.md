@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/11/2026, 10:03:22 AM
+			6/13/2026, 8:45:17 AM
 		</td>
 		<td>
-			265587
+			266198
 		</td>
 		<td>
-			540495
+			541568
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/11/2026, 10:03:17 AM
+			6/13/2026, 8:45:15 AM
 		</td>
 		<td>
-			704
+			723
 		</td>
 		<td>
-			1443
+			1486
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/11/2026, 10:03:20 AM
+			6/13/2026, 8:45:16 AM
 		</td>
 		<td>
-			249
+			252
 		</td>
 		<td>
-			482
+			487
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/11/2026, 10:03:17 AM
+			6/13/2026, 8:45:15 AM
 		</td>
 		<td>
-			152
+			154
 		</td>
 		<td>
-			289
+			297
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			5/31/2026, 8:32:58 AM
+			6/13/2026, 8:45:16 AM
 		</td>
 		<td>
-			85
+			86
 		</td>
 		<td>
-			192
+			193
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/NexusKey">
+				NexusKey
+			</a>
+		</td>
+		<td>
+			6/13/2026, 8:45:17 AM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			68
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/NexusKey">
-				NexusKey
-			</a>
-		</td>
-		<td>
-			5/21/2026, 8:54:09 AM
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			66
 		</td>
 	</tr>
 	<tr>
