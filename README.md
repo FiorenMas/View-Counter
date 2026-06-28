@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/27/2026, 8:24:44 AM
+			6/28/2026, 8:38:56 AM
 		</td>
 		<td>
-			270584
+			270959
 		</td>
 		<td>
-			549829
+			550568
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/27/2026, 8:24:40 AM
+			6/28/2026, 8:38:54 AM
 		</td>
 		<td>
-			828
+			846
 		</td>
 		<td>
-			1688
+			1737
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/27/2026, 8:24:43 AM
+			6/28/2026, 8:38:56 AM
 		</td>
 		<td>
-			265
+			267
 		</td>
 		<td>
-			506
+			510
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/22/2026, 11:32:36 AM
+			6/28/2026, 8:38:54 AM
 		</td>
 		<td>
-			157
+			158
 		</td>
 		<td>
-			300
+			301
 		</td>
 	</tr>
 	<tr>
@@ -439,6 +439,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-extended">
+				lnreader-extended
+			</a>
+		</td>
+		<td>
+			6/28/2026, 8:38:55 AM
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/remic">
 				remic
 			</a>
@@ -455,18 +471,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/lnreader-extended">
-				lnreader-extended
+			<a href="https://github.com/FiorenMas/etkg">
+				etkg
 			</a>
 		</td>
 		<td>
-			5/25/2026, 9:46:16 AM
+			6/28/2026, 8:38:55 AM
+		</td>
+		<td>
+			1
 		</td>
 		<td>
 			2
-		</td>
-		<td>
-			3
 		</td>
 	</tr>
 </table>
