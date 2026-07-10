@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/9/2026, 9:29:10 AM
+			7/10/2026, 9:16:27 AM
 		</td>
 		<td>
-			274353
+			274633
 		</td>
 		<td>
-			556933
+			557436
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/9/2026, 9:29:06 AM
+			7/10/2026, 9:16:24 AM
 		</td>
 		<td>
-			961
+			964
 		</td>
 		<td>
-			1932
+			1937
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/9/2026, 9:29:09 AM
+			7/10/2026, 9:16:26 AM
 		</td>
 		<td>
-			278
+			280
 		</td>
 		<td>
-			531
+			535
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/9/2026, 9:29:06 AM
+			7/10/2026, 9:16:24 AM
 		</td>
 		<td>
-			161
+			163
 		</td>
 		<td>
-			312
+			316
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,38 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions">
+				extensions
+			</a>
+		</td>
+		<td>
+			7/10/2026, 9:16:25 AM
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			22
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/komikku">
+				komikku
+			</a>
+		</td>
+		<td>
+			7/10/2026, 9:16:26 AM
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			44
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/anime-extensions">
 				anime-extensions
 			</a>
@@ -259,38 +291,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			28
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/extensions">
-				extensions
-			</a>
-		</td>
-		<td>
-			7/4/2026, 8:22:06 AM
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			21
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/komikku">
-				komikku
-			</a>
-		</td>
-		<td>
-			7/7/2026, 9:21:41 AM
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			43
 		</td>
 	</tr>
 	<tr>
