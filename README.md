@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/13/2026, 8:46:09 AM
+			7/14/2026, 7:45:23 AM
 		</td>
 		<td>
-			275559
+			275807
 		</td>
 		<td>
-			559080
+			559529
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/13/2026, 8:46:06 AM
+			7/14/2026, 7:45:20 AM
 		</td>
 		<td>
-			992
+			995
 		</td>
 		<td>
-			2000
+			2004
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/13/2026, 8:46:08 AM
+			7/14/2026, 7:45:22 AM
 		</td>
 		<td>
-			286
+			287
 		</td>
 		<td>
-			542
+			544
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/13/2026, 8:46:07 AM
+			7/14/2026, 7:45:21 AM
 		</td>
 		<td>
-			98
+			99
 		</td>
 		<td>
-			210
+			211
 		</td>
 	</tr>
 	<tr>
@@ -252,13 +252,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/13/2026, 8:46:05 AM
+			7/14/2026, 7:45:20 AM
 		</td>
 		<td>
-			15
+			16
 		</td>
 		<td>
-			36
+			37
 		</td>
 	</tr>
 	<tr>
@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/aniyomi-repo">
+				aniyomi-repo
+			</a>
+		</td>
+		<td>
+			7/14/2026, 7:45:20 AM
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -403,22 +419,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/aniyomi-repo">
-				aniyomi-repo
-			</a>
-		</td>
-		<td>
-			6/6/2026, 7:03:32 PM
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			10
 		</td>
 	</tr>
 	<tr>
