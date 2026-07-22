@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/21/2026, 8:06:05 AM
+			7/22/2026, 8:06:45 AM
 		</td>
 		<td>
-			277701
+			278088
 		</td>
 		<td>
-			562711
+			563394
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/21/2026, 8:06:02 AM
+			7/22/2026, 8:06:40 AM
 		</td>
 		<td>
-			1083
+			1096
 		</td>
 		<td>
-			2174
+			2193
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/21/2026, 8:06:05 AM
+			7/22/2026, 8:06:43 AM
 		</td>
 		<td>
-			298
+			299
 		</td>
 		<td>
-			557
+			559
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/19/2026, 10:10:27 AM
+			7/22/2026, 8:06:40 AM
 		</td>
 		<td>
-			129
+			130
 		</td>
 		<td>
-			309
+			314
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/14/2026, 7:45:21 AM
+			7/22/2026, 8:06:42 AM
 		</td>
 		<td>
-			99
+			100
 		</td>
 		<td>
-			211
+			239
 		</td>
 	</tr>
 	<tr>
@@ -295,6 +295,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/CFWorkers">
+				CFWorkers
+			</a>
+		</td>
+		<td>
+			7/22/2026, 8:06:40 AM
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			17
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/GoodbyeDPI">
 				GoodbyeDPI
 			</a>
@@ -307,22 +323,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			13
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/CFWorkers">
-				CFWorkers
-			</a>
-		</td>
-		<td>
-			3/13/2026, 12:33:55 PM
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			16
 		</td>
 	</tr>
 	<tr>
