@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/22/2026, 8:06:45 AM
+			7/23/2026, 8:10:07 AM
 		</td>
 		<td>
-			278088
+			278453
 		</td>
 		<td>
-			563394
+			563938
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/22/2026, 8:06:40 AM
+			7/23/2026, 8:10:02 AM
 		</td>
 		<td>
-			1096
+			1109
 		</td>
 		<td>
-			2193
+			2212
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/22/2026, 8:06:43 AM
+			7/23/2026, 8:10:06 AM
 		</td>
 		<td>
-			299
+			301
 		</td>
 		<td>
-			559
+			561
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/20/2026, 8:37:49 AM
+			7/23/2026, 8:10:03 AM
 		</td>
 		<td>
-			168
+			169
 		</td>
 		<td>
-			324
+			325
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/22/2026, 8:06:42 AM
+			7/23/2026, 8:10:04 AM
 		</td>
 		<td>
-			100
+			101
 		</td>
 		<td>
-			239
+			243
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			6/27/2026, 8:24:44 AM
+			7/23/2026, 8:10:07 AM
 		</td>
 		<td>
-			67
+			68
 		</td>
 		<td>
-			100
+			101
 		</td>
 	</tr>
 	<tr>
@@ -231,6 +231,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/anime-extensions">
+				anime-extensions
+			</a>
+		</td>
+		<td>
+			7/23/2026, 8:10:01 AM
+		</td>
+		<td>
+			19
+		</td>
+		<td>
+			43
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/komikku">
 				komikku
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			49
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/anime-extensions">
-				anime-extensions
-			</a>
-		</td>
-		<td>
-			7/16/2026, 7:53:28 AM
-		</td>
-		<td>
-			18
-		</td>
-		<td>
-			39
 		</td>
 	</tr>
 	<tr>
