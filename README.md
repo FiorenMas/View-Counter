@@ -295,6 +295,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/GoodbyeDPI">
+				GoodbyeDPI
+			</a>
+		</td>
+		<td>
+			7/30/2026, 7:07:39 PM
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			14
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/CFWorkers">
 				CFWorkers
 			</a>
@@ -307,22 +323,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			17
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/GoodbyeDPI">
-				GoodbyeDPI
-			</a>
-		</td>
-		<td>
-			12/27/2025, 6:17:12 AM
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			13
 		</td>
 	</tr>
 	<tr>
