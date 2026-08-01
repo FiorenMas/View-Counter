@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/31/2026, 8:31:45 AM
+			8/1/2026, 8:01:54 AM
 		</td>
 		<td>
-			280932
+			281240
 		</td>
 		<td>
-			568315
+			568923
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/31/2026, 8:31:42 AM
+			8/1/2026, 8:01:50 AM
 		</td>
 		<td>
-			1217
+			1228
 		</td>
 		<td>
-			2415
+			2435
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/30/2026, 8:05:34 AM
+			8/1/2026, 8:01:53 AM
 		</td>
 		<td>
-			313
+			315
 		</td>
 		<td>
-			574
+			579
 		</td>
 	</tr>
 	<tr>
@@ -252,13 +252,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/23/2026, 8:10:01 AM
+			8/1/2026, 8:01:49 AM
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			43
+			46
 		</td>
 	</tr>
 	<tr>
@@ -327,6 +327,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/My-userscript">
+				My-userscript
+			</a>
+		</td>
+		<td>
+			8/1/2026, 8:01:53 AM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			26
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -339,22 +355,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/My-userscript">
-				My-userscript
-			</a>
-		</td>
-		<td>
-			7/30/2026, 8:05:34 AM
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			24
 		</td>
 	</tr>
 	<tr>
