@@ -151,22 +151,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/revanced-patches">
-				revanced-patches
-			</a>
-		</td>
-		<td>
-			3/24/2026, 12:44:44 PM
-		</td>
-		<td>
-			44
-		</td>
-		<td>
-			94
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/aria2">
 				aria2
 			</a>
