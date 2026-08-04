@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/1/2026, 8:01:54 AM
+			8/4/2026, 8:17:23 AM
 		</td>
 		<td>
-			281240
+			282210
 		</td>
 		<td>
-			568923
+			570608
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/1/2026, 8:01:50 AM
+			8/4/2026, 8:17:19 AM
 		</td>
 		<td>
-			1228
+			1302
 		</td>
 		<td>
-			2435
+			2565
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/1/2026, 8:01:53 AM
+			8/4/2026, 8:17:22 AM
 		</td>
 		<td>
-			315
+			319
 		</td>
 		<td>
-			579
+			585
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/31/2026, 8:31:43 AM
+			8/4/2026, 8:17:19 AM
 		</td>
 		<td>
-			178
+			180
 		</td>
 		<td>
-			343
+			345
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/anime-extensions">
+				anime-extensions
+			</a>
+		</td>
+		<td>
+			8/4/2026, 8:17:18 AM
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			55
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/komikku">
 				komikku
 			</a>
@@ -227,22 +243,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			51
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/anime-extensions">
-				anime-extensions
-			</a>
-		</td>
-		<td>
-			8/1/2026, 8:01:49 AM
-		</td>
-		<td>
-			20
-		</td>
-		<td>
-			46
 		</td>
 	</tr>
 	<tr>
@@ -448,6 +448,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			3
+		</td>
+		<td>
+			3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/4/2026, 8:17:22 AM
+		</td>
+		<td>
+			2
 		</td>
 		<td>
 			3
