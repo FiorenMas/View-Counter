@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/5/2026, 8:14:26 AM
+			8/6/2026, 8:13:23 AM
 		</td>
 		<td>
-			282508
+			282810
 		</td>
 		<td>
-			571143
+			571706
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/5/2026, 8:14:22 AM
+			8/6/2026, 8:13:21 AM
 		</td>
 		<td>
-			1322
+			1342
 		</td>
 		<td>
-			2606
+			2649
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/30/2026, 8:05:33 AM
+			8/6/2026, 8:13:22 AM
 		</td>
 		<td>
-			105
+			106
 		</td>
 		<td>
-			249
+			251
 		</td>
 	</tr>
 	<tr>
@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/6/2026, 8:13:23 AM
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -403,22 +419,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			8/5/2026, 8:14:25 AM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			5
 		</td>
 	</tr>
 	<tr>
