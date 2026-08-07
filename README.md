@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/6/2026, 8:13:23 AM
+			8/7/2026, 6:58:28 AM
 		</td>
 		<td>
-			282810
+			283106
 		</td>
 		<td>
-			571706
+			572283
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/6/2026, 8:13:21 AM
+			8/7/2026, 6:58:26 AM
 		</td>
 		<td>
-			1342
+			1370
 		</td>
 		<td>
-			2649
+			2701
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/5/2026, 8:14:25 AM
+			8/7/2026, 6:58:28 AM
 		</td>
 		<td>
-			320
+			321
 		</td>
 		<td>
-			587
+			588
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/4/2026, 8:17:19 AM
+			8/7/2026, 6:58:26 AM
 		</td>
 		<td>
-			180
+			181
 		</td>
 		<td>
-			345
+			347
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/1/2026, 6:53:43 PM
+			8/7/2026, 6:58:27 AM
 		</td>
 		<td>
-			131
+			132
 		</td>
 		<td>
-			315
+			316
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/30/2026, 8:05:35 AM
+			8/7/2026, 6:58:29 AM
 		</td>
 		<td>
-			69
+			70
 		</td>
 		<td>
-			102
+			103
 		</td>
 	</tr>
 	<tr>
@@ -327,6 +327,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			8/7/2026, 6:58:28 AM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			28
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/msc.com-python-crawler">
 				msc.com-python-crawler
 			</a>
@@ -339,22 +355,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			7/29/2026, 8:17:52 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			27
 		</td>
 	</tr>
 	<tr>
