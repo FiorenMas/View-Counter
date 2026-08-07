@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/6/2026, 8:13:22 AM
+			8/7/2026, 6:38:01 PM
 		</td>
 		<td>
-			106
+			107
 		</td>
 		<td>
-			251
+			253
 		</td>
 	</tr>
 	<tr>
@@ -252,13 +252,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			7/31/2026, 8:31:43 AM
+			8/7/2026, 6:38:01 PM
 		</td>
 		<td>
-			16
+			17
 		</td>
 		<td>
-			25
+			27
 		</td>
 	</tr>
 	<tr>
@@ -375,6 +375,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/7/2026, 6:38:02 PM
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			10
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aniyomi-repo">
 				aniyomi-repo
 			</a>
@@ -387,22 +403,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			13
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			8/6/2026, 8:13:23 AM
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			7
 		</td>
 	</tr>
 	<tr>
