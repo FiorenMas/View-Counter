@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/12/2026, 6:45:44 PM
+			8/13/2026, 7:10:22 AM
 		</td>
 		<td>
-			284562
+			284863
 		</td>
 		<td>
-			574992
+			575547
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/12/2026, 7:06:08 AM
+			8/13/2026, 7:10:18 AM
 		</td>
 		<td>
-			1523
+			1535
 		</td>
 		<td>
-			3051
+			3079
 		</td>
 	</tr>
 	<tr>
@@ -327,6 +327,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/13/2026, 7:10:21 AM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			19
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/lnreader-plugins">
 				lnreader-plugins
 			</a>
@@ -352,22 +368,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			9
-		</td>
-		<td>
-			12
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			8/8/2026, 12:24:15 PM
-		</td>
-		<td>
-			8
 		</td>
 		<td>
 			12
