@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/21/2026, 12:23:38 PM
+			8/22/2026, 12:16:49 PM
 		</td>
 		<td>
-			288017
+			288415
 		</td>
 		<td>
-			581304
+			582089
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/21/2026, 12:23:35 PM
+			8/22/2026, 12:16:46 PM
 		</td>
 		<td>
-			1693
+			1706
 		</td>
 		<td>
-			3401
+			3441
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/20/2026, 12:23:53 PM
+			8/22/2026, 12:16:48 PM
 		</td>
 		<td>
-			345
+			348
 		</td>
 		<td>
-			633
+			639
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/21/2026, 12:23:36 PM
+			8/22/2026, 12:16:46 PM
 		</td>
 		<td>
-			194
+			195
 		</td>
 		<td>
-			369
+			370
 		</td>
 	</tr>
 	<tr>
@@ -247,6 +247,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/22/2026, 12:16:48 PM
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			42
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/extensions">
 				extensions
 			</a>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			27
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			8/18/2026, 12:21:52 PM
-		</td>
-		<td>
-			17
-		</td>
-		<td>
-			38
 		</td>
 	</tr>
 	<tr>
