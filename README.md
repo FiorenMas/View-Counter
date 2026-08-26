@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/25/2026, 12:25:02 PM
+			8/26/2026, 12:28:03 PM
 		</td>
 		<td>
-			289575
+			289941
 		</td>
 		<td>
-			584247
+			584906
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/25/2026, 12:24:58 PM
+			8/26/2026, 12:28:00 PM
 		</td>
 		<td>
-			1767
+			1780
 		</td>
 		<td>
-			3582
+			3606
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/25/2026, 12:25:01 PM
+			8/26/2026, 12:28:02 PM
 		</td>
 		<td>
-			358
+			360
 		</td>
 		<td>
-			664
+			666
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/25/2026, 12:24:59 PM
+			8/26/2026, 12:28:00 PM
 		</td>
 		<td>
-			196
+			197
 		</td>
 		<td>
-			374
+			376
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/20/2026, 12:23:52 PM
+			8/26/2026, 12:28:01 PM
 		</td>
 		<td>
-			109
+			110
 		</td>
 		<td>
-			260
+			261
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			8/26/2026, 12:28:02 PM
+		</td>
+		<td>
+			23
+		</td>
+		<td>
+			46
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			51
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			8/25/2026, 12:25:01 PM
-		</td>
-		<td>
-			21
-		</td>
-		<td>
-			44
 		</td>
 	</tr>
 	<tr>
