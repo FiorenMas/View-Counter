@@ -1,3 +1,5 @@
+
+
 ## Summary of public repositories :bowtie:
 Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 
@@ -487,3 +489,4 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 </table>
 
+The table is automatically updated every 6 hours by the View Update Action.
