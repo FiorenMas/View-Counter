@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/3/2026, 10:20:28 AM
+			9/4/2026, 10:07:56 AM
 		</td>
 		<td>
-			292481
+			292828
 		</td>
 		<td>
-			589484
+			590159
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/3/2026, 10:20:24 AM
+			9/4/2026, 10:07:53 AM
 		</td>
 		<td>
-			1921
+			1934
 		</td>
 		<td>
-			3927
+			3945
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/2/2026, 10:08:54 AM
+			9/4/2026, 10:07:55 AM
 		</td>
 		<td>
-			375
+			377
 		</td>
 		<td>
-			685
+			689
 		</td>
 	</tr>
 	<tr>
@@ -115,22 +115,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			269
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/revanced-cli">
-				revanced-cli
-			</a>
-		</td>
-		<td>
-			8/7/2026, 6:58:29 AM
-		</td>
-		<td>
-			70
-		</td>
-		<td>
-			103
 		</td>
 	</tr>
 	<tr>
@@ -284,13 +268,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			4/13/2026, 7:46:33 AM
+			9/4/2026, 10:07:53 AM
 		</td>
 		<td>
-			14
+			15
 		</td>
 		<td>
-			28
+			29
 		</td>
 	</tr>
 	<tr>
