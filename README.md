@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/5/2026, 9:37:23 AM
+			9/6/2026, 9:52:42 AM
 		</td>
 		<td>
-			293141
+			293465
 		</td>
 		<td>
-			590801
+			591383
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/5/2026, 9:37:21 AM
+			9/6/2026, 9:52:40 AM
 		</td>
 		<td>
-			1944
+			1960
 		</td>
 		<td>
-			3963
+			3997
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/5/2026, 9:37:22 AM
+			9/6/2026, 9:52:41 AM
 		</td>
 		<td>
-			382
+			386
 		</td>
 		<td>
-			701
+			713
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/2/2026, 10:08:53 AM
+			9/6/2026, 9:52:40 AM
 		</td>
 		<td>
-			115
+			116
 		</td>
 		<td>
-			269
+			284
 		</td>
 	</tr>
 	<tr>
@@ -188,13 +188,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			8/26/2026, 12:28:02 PM
+			9/6/2026, 9:52:41 AM
 		</td>
 		<td>
-			23
+			24
 		</td>
 		<td>
-			46
+			48
 		</td>
 	</tr>
 	<tr>
@@ -467,6 +467,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/NexAlloy">
+				NexAlloy
+			</a>
+		</td>
+		<td>
+			9/6/2026, 9:52:42 AM
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			1
 		</td>
 	</tr>
 </table>
