@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/1/2026, 12:00:55 PM
+			10/2/2026, 11:32:51 AM
 		</td>
 		<td>
-			301899
+			302179
 		</td>
 		<td>
-			606764
+			607233
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/1/2026, 12:00:51 PM
+			10/2/2026, 11:32:45 AM
 		</td>
 		<td>
-			2259
+			2272
 		</td>
 		<td>
-			4638
+			4674
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/1/2026, 12:00:54 PM
+			10/2/2026, 11:32:49 AM
 		</td>
 		<td>
-			450
+			452
 		</td>
 		<td>
-			838
+			842
 		</td>
 	</tr>
 	<tr>
@@ -263,6 +263,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			10/2/2026, 11:32:49 AM
+		</td>
+		<td>
+			19
+		</td>
+		<td>
+			49
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/buzzalive">
 				buzzalive
 			</a>
@@ -275,22 +291,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			33
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			9/30/2026, 11:32:38 AM
-		</td>
-		<td>
-			18
-		</td>
-		<td>
-			47
 		</td>
 	</tr>
 	<tr>
@@ -375,6 +375,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/NexAlloy">
+				NexAlloy
+			</a>
+		</td>
+		<td>
+			10/2/2026, 11:32:50 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			9
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aniyomi-repo">
 				aniyomi-repo
 			</a>
@@ -391,18 +407,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/NexAlloy">
-				NexAlloy
+			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
+				hagezi-to-nextdns
 			</a>
 		</td>
 		<td>
-			9/30/2026, 11:32:39 AM
+			10/2/2026, 11:32:48 AM
 		</td>
 		<td>
-			6
+			5
 		</td>
 		<td>
-			8
+			5
 		</td>
 	</tr>
 	<tr>
@@ -419,22 +435,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			6
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
-				hagezi-to-nextdns
-			</a>
-		</td>
-		<td>
-			7/2/2026, 8:40:03 AM
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			4
 		</td>
 	</tr>
 	<tr>
