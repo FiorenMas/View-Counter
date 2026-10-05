@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/4/2026, 11:29:17 AM
+			10/5/2026, 12:58:13 PM
 		</td>
 		<td>
-			302812
+			303122
 		</td>
 		<td>
-			608337
+			608943
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/4/2026, 11:29:14 AM
+			10/5/2026, 12:58:09 PM
 		</td>
 		<td>
-			2287
+			2297
 		</td>
 		<td>
-			4696
+			4721
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/4/2026, 11:29:16 AM
+			10/5/2026, 12:58:12 PM
 		</td>
 		<td>
-			456
+			466
 		</td>
 		<td>
-			847
+			858
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/29/2026, 9:37:40 PM
+			10/5/2026, 12:58:09 PM
 		</td>
 		<td>
-			221
+			222
 		</td>
 		<td>
-			418
+			419
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/4/2026, 11:29:14 AM
+			10/5/2026, 12:58:10 PM
 		</td>
 		<td>
-			135
+			136
 		</td>
 		<td>
-			323
+			324
 		</td>
 	</tr>
 	<tr>
@@ -140,13 +140,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/13/2026, 10:46:11 AM
+			10/5/2026, 12:58:09 PM
 		</td>
 		<td>
-			35
+			36
 		</td>
 		<td>
-			68
+			69
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/29/2026, 9:37:40 PM
+			10/5/2026, 12:58:10 PM
 		</td>
 		<td>
-			32
+			33
 		</td>
 		<td>
-			49
+			50
 		</td>
 	</tr>
 	<tr>
@@ -204,13 +204,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/29/2026, 9:37:42 PM
+			10/5/2026, 12:58:11 PM
 		</td>
 		<td>
-			26
+			27
 		</td>
 		<td>
-			58
+			59
 		</td>
 	</tr>
 	<tr>
@@ -268,13 +268,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/2/2026, 11:32:49 AM
+			10/5/2026, 12:58:11 PM
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			49
+			50
 		</td>
 	</tr>
 	<tr>
@@ -300,13 +300,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/13/2026, 10:46:12 AM
+			10/5/2026, 12:58:11 PM
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			16
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/My-userscript">
+				My-userscript
+			</a>
+		</td>
+		<td>
+			10/5/2026, 12:58:12 PM
 		</td>
 		<td>
 			15
 		</td>
 		<td>
-			15
+			33
 		</td>
 	</tr>
 	<tr>
@@ -323,22 +339,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			18
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/My-userscript">
-				My-userscript
-			</a>
-		</td>
-		<td>
-			9/13/2026, 10:46:14 AM
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			32
 		</td>
 	</tr>
 	<tr>
@@ -412,13 +412,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/2/2026, 11:32:48 AM
+			10/5/2026, 12:58:11 PM
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			5
+			6
 		</td>
 	</tr>
 	<tr>
@@ -428,10 +428,26 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			9/13/2026, 10:46:14 AM
+			10/5/2026, 12:58:13 PM
 		</td>
 		<td>
-			5
+			6
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/etkg">
+				etkg
+			</a>
+		</td>
+		<td>
+			10/5/2026, 12:58:10 PM
+		</td>
+		<td>
+			4
 		</td>
 		<td>
 			6
@@ -448,22 +464,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			4
-		</td>
-		<td>
-			5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/etkg">
-				etkg
-			</a>
-		</td>
-		<td>
-			9/13/2026, 10:46:12 AM
-		</td>
-		<td>
-			3
 		</td>
 		<td>
 			5
