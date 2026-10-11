@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/10/2026, 11:32:59 AM
+			10/11/2026, 11:46:37 AM
 		</td>
 		<td>
-			304638
+			304969
 		</td>
 		<td>
-			611813
+			612408
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/10/2026, 11:32:54 AM
+			10/11/2026, 11:46:32 AM
 		</td>
 		<td>
-			2358
+			2367
 		</td>
 		<td>
-			4853
+			4873
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/10/2026, 11:32:56 AM
+			10/11/2026, 11:46:34 AM
 		</td>
 		<td>
-			132
+			133
 		</td>
 		<td>
-			306
+			316
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/Dropped-Patches">
+				Dropped-Patches
+			</a>
+		</td>
+		<td>
+			10/11/2026, 11:46:33 AM
+		</td>
+		<td>
+			31
+		</td>
+		<td>
+			37
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/mihon-extensions">
 				mihon-extensions
 			</a>
@@ -179,22 +195,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			61
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/Dropped-Patches">
-				Dropped-Patches
-			</a>
-		</td>
-		<td>
-			10/7/2026, 12:15:59 PM
-		</td>
-		<td>
-			30
-		</td>
-		<td>
-			36
 		</td>
 	</tr>
 	<tr>
