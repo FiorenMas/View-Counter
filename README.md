@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/18/2026, 10:03:50 AM
+			10/19/2026, 11:30:57 AM
 		</td>
 		<td>
-			306771
+			307079
 		</td>
 		<td>
-			615691
+			616269
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/18/2026, 10:03:48 AM
+			10/19/2026, 11:30:53 AM
 		</td>
 		<td>
-			2472
+			2486
 		</td>
 		<td>
-			5070
+			5088
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/18/2026, 10:03:50 AM
+			10/19/2026, 11:30:56 AM
 		</td>
 		<td>
-			494
+			496
 		</td>
 		<td>
-			908
+			912
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/16/2026, 10:18:36 AM
+			10/19/2026, 11:30:53 AM
 		</td>
 		<td>
-			227
+			229
 		</td>
 		<td>
-			429
+			431
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:55 AM
+			10/19/2026, 11:30:54 AM
 		</td>
 		<td>
-			135
+			136
 		</td>
 		<td>
-			318
+			319
 		</td>
 	</tr>
 	<tr>
@@ -247,6 +247,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			10/19/2026, 11:30:56 AM
+		</td>
+		<td>
+			26
+		</td>
+		<td>
+			56
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/extensions">
 				extensions
 			</a>
@@ -259,22 +275,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			35
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			10/18/2026, 10:03:50 AM
-		</td>
-		<td>
-			25
-		</td>
-		<td>
-			55
 		</td>
 	</tr>
 	<tr>
