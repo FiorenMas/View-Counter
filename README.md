@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/19/2026, 11:30:57 AM
+			10/20/2026, 10:36:18 AM
 		</td>
 		<td>
-			307079
+			307261
 		</td>
 		<td>
-			616269
+			616577
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/19/2026, 11:30:53 AM
+			10/20/2026, 10:36:13 AM
 		</td>
 		<td>
-			2486
+			2497
 		</td>
 		<td>
-			5088
+			5105
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/19/2026, 11:30:56 AM
+			10/20/2026, 10:36:17 AM
 		</td>
 		<td>
-			496
+			497
 		</td>
 		<td>
-			912
+			913
 		</td>
 	</tr>
 	<tr>
@@ -359,6 +359,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/NexAlloy">
+				NexAlloy
+			</a>
+		</td>
+		<td>
+			10/20/2026, 10:36:18 AM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			15
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/aniyomi-repo">
 				aniyomi-repo
 			</a>
@@ -387,22 +403,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			32
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/NexAlloy">
-				NexAlloy
-			</a>
-		</td>
-		<td>
-			10/12/2026, 1:50:13 PM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			13
 		</td>
 	</tr>
 	<tr>
