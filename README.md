@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/21/2026, 10:47:33 AM
+			10/22/2026, 10:48:38 AM
 		</td>
 		<td>
-			307426
+			307539
 		</td>
 		<td>
-			616855
+			617044
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/21/2026, 10:47:29 AM
+			10/22/2026, 10:48:34 AM
 		</td>
 		<td>
-			2504
+			2507
 		</td>
 		<td>
-			5130
+			5136
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/21/2026, 10:47:32 AM
+			10/22/2026, 10:48:37 AM
 		</td>
 		<td>
-			501
+			502
 		</td>
 		<td>
-			918
+			919
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/19/2026, 11:30:53 AM
+			10/22/2026, 10:48:35 AM
 		</td>
 		<td>
-			229
+			230
 		</td>
 		<td>
-			431
+			432
 		</td>
 	</tr>
 	<tr>
@@ -359,6 +359,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
+				github-visitors-counter-action
+			</a>
+		</td>
+		<td>
+			10/22/2026, 10:48:36 AM
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			33
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/NexAlloy">
 				NexAlloy
 			</a>
@@ -387,22 +403,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			16
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
-				github-visitors-counter-action
-			</a>
-		</td>
-		<td>
-			10/14/2026, 10:48:55 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			32
 		</td>
 	</tr>
 	<tr>
