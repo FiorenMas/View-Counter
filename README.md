@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/24/2026, 9:57:47 AM
+			10/25/2026, 10:21:24 AM
 		</td>
 		<td>
-			307766
+			308125
 		</td>
 		<td>
-			617396
+			617989
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/24/2026, 9:57:44 AM
+			10/25/2026, 10:21:21 AM
 		</td>
 		<td>
-			2513
+			2530
 		</td>
 		<td>
-			5153
+			5193
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/24/2026, 9:57:46 AM
+			10/25/2026, 10:21:23 AM
 		</td>
 		<td>
-			503
+			504
 		</td>
 		<td>
-			920
+			921
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/komikku">
+				komikku
+			</a>
+		</td>
+		<td>
+			10/25/2026, 10:21:23 AM
+		</td>
+		<td>
+			29
+		</td>
+		<td>
+			62
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -211,22 +227,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			45
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/komikku">
-				komikku
-			</a>
-		</td>
-		<td>
-			10/14/2026, 10:48:56 AM
-		</td>
-		<td>
-			28
-		</td>
-		<td>
-			61
 		</td>
 	</tr>
 	<tr>
