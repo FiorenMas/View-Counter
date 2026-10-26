@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/25/2026, 10:21:24 AM
+			10/26/2026, 11:49:48 AM
 		</td>
 		<td>
-			308125
+			308471
 		</td>
 		<td>
-			617989
+			618590
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/25/2026, 10:21:21 AM
+			10/26/2026, 11:49:44 AM
 		</td>
 		<td>
-			2530
+			2553
 		</td>
 		<td>
-			5193
+			5241
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/25/2026, 10:21:23 AM
+			10/26/2026, 11:49:47 AM
 		</td>
 		<td>
-			504
+			505
 		</td>
 		<td>
-			921
+			922
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/22/2026, 10:48:35 AM
+			10/26/2026, 11:49:45 AM
 		</td>
 		<td>
-			230
+			231
 		</td>
 		<td>
-			432
+			433
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:57 AM
+			10/26/2026, 11:49:48 AM
 		</td>
 		<td>
-			65
+			66
 		</td>
 		<td>
-			105
+			106
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/anime-extensions">
+				anime-extensions
+			</a>
+		</td>
+		<td>
+			10/26/2026, 11:49:43 AM
+		</td>
+		<td>
+			28
+		</td>
+		<td>
+			71
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -243,22 +259,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			57
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/anime-extensions">
-				anime-extensions
-			</a>
-		</td>
-		<td>
-			10/15/2026, 10:31:24 AM
-		</td>
-		<td>
-			26
-		</td>
-		<td>
-			68
 		</td>
 	</tr>
 	<tr>
