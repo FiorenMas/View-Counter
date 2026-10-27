@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/26/2026, 11:49:48 AM
+			10/27/2026, 11:13:52 AM
 		</td>
 		<td>
-			308471
+			308733
 		</td>
 		<td>
-			618590
+			619050
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/26/2026, 11:49:44 AM
+			10/27/2026, 11:13:47 AM
 		</td>
 		<td>
-			2553
+			2559
 		</td>
 		<td>
-			5241
+			5254
 		</td>
 	</tr>
 	<tr>
@@ -407,6 +407,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/etkg">
+				etkg
+			</a>
+		</td>
+		<td>
+			10/27/2026, 11:13:49 AM
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			9
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
 				hagezi-to-nextdns
 			</a>
@@ -432,22 +448,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			7
-		</td>
-		<td>
-			8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/etkg">
-				etkg
-			</a>
-		</td>
-		<td>
-			10/14/2026, 10:48:55 AM
-		</td>
-		<td>
-			6
 		</td>
 		<td>
 			8
