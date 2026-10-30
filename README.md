@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/29/2026, 11:56:21 AM
+			10/30/2026, 11:50:08 AM
 		</td>
 		<td>
-			309323
+			309600
 		</td>
 		<td>
-			620081
+			620621
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/29/2026, 11:56:18 AM
+			10/30/2026, 11:50:05 AM
 		</td>
 		<td>
-			2583
+			2596
 		</td>
 		<td>
-			5296
+			5324
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/26/2026, 11:49:47 AM
+			10/30/2026, 11:50:07 AM
 		</td>
 		<td>
-			505
+			507
 		</td>
 		<td>
-			922
+			925
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/29/2026, 11:56:18 AM
+			10/30/2026, 11:50:05 AM
 		</td>
 		<td>
-			232
+			233
 		</td>
 		<td>
-			438
+			439
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
+				cloudflare-gateway-pihole-scripts
+			</a>
+		</td>
+		<td>
+			10/30/2026, 11:50:05 AM
+		</td>
+		<td>
+			31
+		</td>
+		<td>
+			48
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/komikku">
 				komikku
 			</a>
@@ -231,34 +247,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
-				cloudflare-gateway-pihole-scripts
-			</a>
-		</td>
-		<td>
-			10/15/2026, 10:31:26 AM
-		</td>
-		<td>
-			28
-		</td>
-		<td>
-			45
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/lnreader-plugins">
 				lnreader-plugins
 			</a>
 		</td>
 		<td>
-			10/24/2026, 9:57:46 AM
+			10/30/2026, 11:50:07 AM
 		</td>
 		<td>
-			27
+			28
 		</td>
 		<td>
-			57
+			58
 		</td>
 	</tr>
 	<tr>
@@ -359,6 +359,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/etkg">
+				etkg
+			</a>
+		</td>
+		<td>
+			10/30/2026, 11:50:06 AM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			12
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/github-visitors-counter-action">
 				github-visitors-counter-action
 			</a>
@@ -403,22 +419,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			16
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/etkg">
-				etkg
-			</a>
-		</td>
-		<td>
-			10/29/2026, 11:56:19 AM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			10
 		</td>
 	</tr>
 	<tr>
