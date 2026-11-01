@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/31/2026, 11:23:43 AM
+			11/1/2026, 12:15:45 PM
 		</td>
 		<td>
-			309902
+			310242
 		</td>
 		<td>
-			621165
+			621743
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/31/2026, 11:23:39 AM
+			11/1/2026, 12:15:42 PM
 		</td>
 		<td>
-			2608
+			2620
 		</td>
 		<td>
-			5343
+			5370
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/31/2026, 11:23:42 AM
+			11/1/2026, 12:15:45 PM
 		</td>
 		<td>
-			508
+			510
 		</td>
 		<td>
-			926
+			929
 		</td>
 	</tr>
 	<tr>
@@ -140,13 +140,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:53 AM
+			11/1/2026, 12:15:42 PM
 		</td>
 		<td>
-			37
+			38
 		</td>
 		<td>
-			70
+			71
 		</td>
 	</tr>
 	<tr>
@@ -215,6 +215,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			11/1/2026, 12:15:44 PM
+		</td>
+		<td>
+			30
+		</td>
+		<td>
+			63
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/komikku">
 				komikku
 			</a>
@@ -227,22 +243,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			62
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			10/31/2026, 11:23:42 AM
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			59
 		</td>
 	</tr>
 	<tr>
@@ -284,13 +284,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:53 AM
+			11/1/2026, 12:15:42 PM
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			34
+			35
 		</td>
 	</tr>
 	<tr>
@@ -428,13 +428,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:55 AM
+			11/1/2026, 12:15:44 PM
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			7
+			8
 		</td>
 	</tr>
 	<tr>
