@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/3/2026, 10:40:19 PM
+			11/4/2026, 1:26:52 PM
 		</td>
 		<td>
-			310841
+			311131
 		</td>
 		<td>
-			622803
+			623325
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/3/2026, 10:40:14 PM
+			11/4/2026, 1:26:47 PM
 		</td>
 		<td>
-			2648
+			2663
 		</td>
 		<td>
-			5419
+			5451
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/3/2026, 10:40:17 PM
+			11/4/2026, 1:26:50 PM
 		</td>
 		<td>
-			511
+			513
 		</td>
 		<td>
-			931
+			934
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/3/2026, 10:40:14 PM
+			11/4/2026, 1:26:47 PM
 		</td>
 		<td>
-			241
+			243
 		</td>
 		<td>
-			448
+			451
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/3/2026, 10:40:16 PM
+			11/4/2026, 1:26:49 PM
 		</td>
 		<td>
-			137
+			138
 		</td>
 		<td>
-			320
+			322
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/26/2026, 11:49:48 AM
+			11/4/2026, 1:26:51 PM
 		</td>
 		<td>
-			66
+			67
 		</td>
 		<td>
-			106
+			113
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,38 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
+				cloudflare-gateway-pihole-scripts
+			</a>
+		</td>
+		<td>
+			11/4/2026, 1:26:48 PM
+		</td>
+		<td>
+			33
+		</td>
+		<td>
+			52
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			11/4/2026, 1:26:51 PM
+		</td>
+		<td>
+			33
+		</td>
+		<td>
+			67
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
@@ -179,38 +211,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			38
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			10/14/2026, 10:48:56 AM
-		</td>
-		<td>
-			32
-		</td>
-		<td>
-			62
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
-				cloudflare-gateway-pihole-scripts
-			</a>
-		</td>
-		<td>
-			10/30/2026, 11:50:05 AM
-		</td>
-		<td>
-			31
-		</td>
-		<td>
-			48
 		</td>
 	</tr>
 	<tr>
