@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:52 PM
+			11/5/2026, 1:41:06 PM
 		</td>
 		<td>
-			311131
+			311407
 		</td>
 		<td>
-			623325
+			623804
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:47 PM
+			11/5/2026, 1:41:02 PM
 		</td>
 		<td>
-			2663
+			2675
 		</td>
 		<td>
-			5451
+			5481
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:50 PM
+			11/5/2026, 1:41:05 PM
 		</td>
 		<td>
-			513
+			517
 		</td>
 		<td>
-			934
+			941
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:47 PM
+			11/5/2026, 1:41:03 PM
 		</td>
 		<td>
-			243
+			244
 		</td>
 		<td>
-			451
+			452
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:51 PM
+			11/5/2026, 1:41:06 PM
 		</td>
 		<td>
-			67
+			68
 		</td>
 		<td>
-			113
+			114
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/mihon-extensions">
+				mihon-extensions
+			</a>
+		</td>
+		<td>
+			11/5/2026, 1:41:05 PM
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			68
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -179,22 +195,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			52
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/mihon-extensions">
-				mihon-extensions
-			</a>
-		</td>
-		<td>
-			11/4/2026, 1:26:51 PM
-		</td>
-		<td>
-			33
-		</td>
-		<td>
-			67
 		</td>
 	</tr>
 	<tr>
@@ -220,13 +220,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/1/2026, 12:15:44 PM
+			11/5/2026, 1:41:05 PM
 		</td>
 		<td>
-			30
+			32
 		</td>
 		<td>
-			63
+			65
 		</td>
 	</tr>
 	<tr>
