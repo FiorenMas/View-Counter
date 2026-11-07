@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/6/2026, 1:25:27 PM
+			11/7/2026, 12:03:16 PM
 		</td>
 		<td>
-			311615
+			311840
 		</td>
 		<td>
-			624158
+			624530
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/6/2026, 1:25:24 PM
+			11/7/2026, 12:03:12 PM
 		</td>
 		<td>
-			2688
+			2694
 		</td>
 		<td>
-			5506
+			5513
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/6/2026, 1:25:26 PM
+			11/7/2026, 12:03:15 PM
 		</td>
 		<td>
-			519
+			520
 		</td>
 		<td>
-			945
+			947
 		</td>
 	</tr>
 	<tr>
@@ -199,6 +199,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			11/7/2026, 12:03:14 PM
+		</td>
+		<td>
+			33
+		</td>
+		<td>
+			66
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Dropped-Patches">
 				Dropped-Patches
 			</a>
@@ -211,22 +227,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			38
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			11/5/2026, 1:41:05 PM
-		</td>
-		<td>
-			32
-		</td>
-		<td>
-			65
 		</td>
 	</tr>
 	<tr>
