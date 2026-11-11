@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/10/2026, 1:55:49 PM
+			11/11/2026, 1:09:16 PM
 		</td>
 		<td>
-			312563
+			312815
 		</td>
 		<td>
-			625760
+			626265
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/10/2026, 1:55:45 PM
+			11/11/2026, 1:09:13 PM
 		</td>
 		<td>
-			2718
+			2734
 		</td>
 		<td>
-			5556
+			5590
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/10/2026, 1:55:48 PM
+			11/11/2026, 1:09:15 PM
 		</td>
 		<td>
-			522
+			526
 		</td>
 		<td>
-			949
+			953
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/9/2026, 2:39:11 PM
+			11/11/2026, 1:09:13 PM
 		</td>
 		<td>
-			247
+			249
 		</td>
 		<td>
-			455
+			457
 		</td>
 	</tr>
 	<tr>
@@ -124,13 +124,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/10/2026, 1:55:48 PM
+			11/11/2026, 1:09:16 PM
 		</td>
 		<td>
-			69
+			70
 		</td>
 		<td>
-			115
+			116
 		</td>
 	</tr>
 	<tr>
@@ -311,6 +311,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/My-userscript">
+				My-userscript
+			</a>
+		</td>
+		<td>
+			11/11/2026, 1:09:15 PM
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			35
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/CFWorkers">
 				CFWorkers
 			</a>
@@ -327,18 +343,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/My-userscript">
-				My-userscript
+			<a href="https://github.com/FiorenMas/etkg">
+				etkg
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:57 AM
+			11/11/2026, 1:09:14 PM
 		</td>
 		<td>
-			16
+			11
 		</td>
 		<td>
-			34
+			13
 		</td>
 	</tr>
 	<tr>
@@ -355,22 +371,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			14
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/etkg">
-				etkg
-			</a>
-		</td>
-		<td>
-			10/30/2026, 11:50:06 AM
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			12
 		</td>
 	</tr>
 	<tr>
