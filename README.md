@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/11/2026, 1:09:16 PM
+			11/12/2026, 2:12:14 PM
 		</td>
 		<td>
-			312815
+			313055
 		</td>
 		<td>
-			626265
+			626647
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/11/2026, 1:09:13 PM
+			11/12/2026, 2:12:11 PM
 		</td>
 		<td>
-			2734
+			2745
 		</td>
 		<td>
-			5590
+			5613
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/11/2026, 1:09:15 PM
+			11/12/2026, 2:12:13 PM
 		</td>
 		<td>
-			526
+			527
 		</td>
 		<td>
-			953
+			954
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/11/2026, 1:09:13 PM
+			11/12/2026, 2:12:11 PM
 		</td>
 		<td>
-			249
+			250
 		</td>
 		<td>
-			457
+			461
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,29 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			10/14/2026, 10:48:54 AM
+			11/12/2026, 2:12:12 PM
 		</td>
 		<td>
-			35
+			36
 		</td>
 		<td>
-			52
+			53
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			11/12/2026, 2:12:13 PM
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			67
 		</td>
 	</tr>
 	<tr>
@@ -195,22 +211,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			52
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			11/7/2026, 12:03:14 PM
-		</td>
-		<td>
-			33
-		</td>
-		<td>
-			66
 		</td>
 	</tr>
 	<tr>
