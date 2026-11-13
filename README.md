@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/12/2026, 2:12:14 PM
+			11/13/2026, 1:36:23 PM
 		</td>
 		<td>
-			313055
+			313324
 		</td>
 		<td>
-			626647
+			627124
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/12/2026, 2:12:11 PM
+			11/13/2026, 1:36:20 PM
 		</td>
 		<td>
-			2745
+			2754
 		</td>
 		<td>
-			5613
+			5625
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/12/2026, 2:12:13 PM
+			11/13/2026, 1:36:22 PM
 		</td>
 		<td>
-			527
+			529
 		</td>
 		<td>
-			954
+			956
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/12/2026, 2:12:11 PM
+			11/13/2026, 1:36:21 PM
 		</td>
 		<td>
-			250
+			251
 		</td>
 		<td>
-			461
+			463
 		</td>
 	</tr>
 	<tr>
@@ -108,13 +108,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/4/2026, 1:26:49 PM
+			11/13/2026, 1:36:21 PM
 		</td>
 		<td>
-			138
+			139
 		</td>
 		<td>
-			322
+			325
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
+				cloudflare-gateway-pihole-scripts
+			</a>
+		</td>
+		<td>
+			11/13/2026, 1:36:21 PM
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			53
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/lnreader-plugins">
 				lnreader-plugins
 			</a>
@@ -195,22 +211,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			68
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
-				cloudflare-gateway-pihole-scripts
-			</a>
-		</td>
-		<td>
-			11/4/2026, 1:26:48 PM
-		</td>
-		<td>
-			33
-		</td>
-		<td>
-			52
 		</td>
 	</tr>
 	<tr>
