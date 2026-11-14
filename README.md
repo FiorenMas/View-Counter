@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/13/2026, 1:36:23 PM
+			11/14/2026, 12:41:03 PM
 		</td>
 		<td>
-			313324
+			313568
 		</td>
 		<td>
-			627124
+			627597
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/13/2026, 1:36:20 PM
+			11/14/2026, 12:41:00 PM
 		</td>
 		<td>
-			2754
+			2770
 		</td>
 		<td>
-			5625
+			5650
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/13/2026, 1:36:22 PM
+			11/14/2026, 12:41:02 PM
 		</td>
 		<td>
-			529
+			534
 		</td>
 		<td>
-			956
+			962
 		</td>
 	</tr>
 	<tr>
@@ -87,6 +87,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/extensions-source">
+				extensions-source
+			</a>
+		</td>
+		<td>
+			11/14/2026, 12:41:01 PM
+		</td>
+		<td>
+			141
+		</td>
+		<td>
+			327
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/Cloudflare-Gateway-Update-DDNS-For-DNS-Locations">
 				Cloudflare-Gateway-Update-DDNS-For-DNS-Locations
 			</a>
@@ -103,34 +119,18 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/FiorenMas/extensions-source">
-				extensions-source
-			</a>
-		</td>
-		<td>
-			11/13/2026, 1:36:21 PM
-		</td>
-		<td>
-			139
-		</td>
-		<td>
-			325
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/FiorenMas/Personal-Ublock-Origin-Rules">
 				Personal-Ublock-Origin-Rules
 			</a>
 		</td>
 		<td>
-			11/11/2026, 1:09:16 PM
+			11/14/2026, 12:41:02 PM
 		</td>
 		<td>
-			70
+			72
 		</td>
 		<td>
-			116
+			119
 		</td>
 	</tr>
 	<tr>
@@ -167,6 +167,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/lnreader-plugins">
+				lnreader-plugins
+			</a>
+		</td>
+		<td>
+			11/14/2026, 12:41:02 PM
+		</td>
+		<td>
+			35
+		</td>
+		<td>
+			68
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/cloudflare-gateway-pihole-scripts">
 				cloudflare-gateway-pihole-scripts
 			</a>
@@ -179,22 +195,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			53
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/lnreader-plugins">
-				lnreader-plugins
-			</a>
-		</td>
-		<td>
-			11/12/2026, 2:12:13 PM
-		</td>
-		<td>
-			34
-		</td>
-		<td>
-			67
 		</td>
 	</tr>
 	<tr>
