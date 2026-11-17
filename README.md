@@ -28,13 +28,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/15/2026, 1:07:09 PM
+			11/17/2026, 3:07:10 PM
 		</td>
 		<td>
-			313845
+			314341
 		</td>
 		<td>
-			628098
+			628973
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/15/2026, 1:07:05 PM
+			11/17/2026, 3:07:05 PM
 		</td>
 		<td>
-			2792
+			2832
 		</td>
 		<td>
-			5693
+			5774
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/15/2026, 1:07:08 PM
+			11/17/2026, 3:07:08 PM
 		</td>
 		<td>
-			535
+			538
 		</td>
 		<td>
-			963
+			966
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/15/2026, 1:07:05 PM
+			11/17/2026, 3:07:05 PM
 		</td>
 		<td>
-			252
+			254
 		</td>
 		<td>
-			465
+			467
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/14/2026, 12:41:01 PM
+			11/17/2026, 3:07:07 PM
 		</td>
 		<td>
-			141
+			142
 		</td>
 		<td>
-			327
+			328
 		</td>
 	</tr>
 	<tr>
@@ -156,13 +156,13 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 			</a>
 		</td>
 		<td>
-			11/12/2026, 2:12:12 PM
+			11/17/2026, 3:07:06 PM
 		</td>
 		<td>
-			36
+			37
 		</td>
 		<td>
-			53
+			55
 		</td>
 	</tr>
 	<tr>
@@ -391,6 +391,22 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
+				hagezi-to-nextdns
+			</a>
+		</td>
+		<td>
+			11/17/2026, 3:07:07 PM
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/FiorenMas/NexAlloy">
 				NexAlloy
 			</a>
@@ -419,22 +435,6 @@ Example badge for Revanced-And-Revanced-Extended-Non-Root repository
 		</td>
 		<td>
 			16
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/FiorenMas/hagezi-to-nextdns">
-				hagezi-to-nextdns
-			</a>
-		</td>
-		<td>
-			11/1/2026, 12:15:44 PM
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			8
 		</td>
 	</tr>
 	<tr>
